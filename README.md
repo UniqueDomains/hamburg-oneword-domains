@@ -1,22 +1,22 @@
-# Available .HAMBURG One-Word Domains (5,097)
+# Available .HAMBURG One-Word Domains (9,801)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-5%2C097%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C097%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C801%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .hamburg one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .hamburg one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,801 domains** on the canonical page below.
 
-**Public extract:** 5,097 rows · **Live catalog:** 5,097 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,801 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/hamburg`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HAMBURG one-word doma
 
 ### Files
 
-- `hamburg.csv` — public CSV extract (5,097 rows)
-- `hamburg.json` — public JSON extract (5,097 rows)
+- `hamburg.csv` — public CSV extract (1,000 rows)
+- `hamburg.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| android.hamburg       | available | $59.99    | —             | 78             | 95     | 7      | name.com  |
-| value.hamburg         | resell    | $554.35   | —             | 89             | 40     | 5      | name.com  |
-| computer.hamburg      | premium   | $6,186.64 | —             | 76             | 37     | 8      | name.com  |
-| indeed.hamburg        | available | $59.99    | —             | 86             | 85     | 6      | name.com  |
-| box.hamburg           | resell    | —         | —             | 68             | 78     | 3      | —         |
-| Gmail.hamburg         | premium   | —         | —             | 84             | 96     | 5      | —         |
-| ally.hamburg          | available | $59.99    | —             | 68             | 85     | 4      | name.com  |
-| now.hamburg           | resell    | —         | —             | 68             | 66     | 3      | —         |
-| ISO.hamburg           | premium   | —         | —             | 78             | 94     | 3      | —         |
-| chase.hamburg         | available | $59.99    | —             | 66             | 85     | 5      | name.com  |
-| fun.hamburg           | resell    | —         | —             | 90             | 62     | 3      | —         |
-| AOL.hamburg           | premium   | —         | —             | 76             | 85     | 3      | —         |
-| sheraton.hamburg      | available | $59.99    | —             | 72             | 84     | 8      | name.com  |
-| home.hamburg          | resell    | —         | —             | 90             | 62     | 4      | —         |
-| Nokia.hamburg         | premium   | —         | —             | 78             | 84     | 5      | —         |
-| authentic.hamburg     | available | $59.99    | —             | 80             | 83     | 9      | name.com  |
-| web.hamburg           | resell    | —         | —             | 72             | 61     | 3      | —         |
-| Americaneagle.hamburg | premium   | —         | —             | 66             | 60     | 14     | —         |
-| grandprix.hamburg     | available | $59.99    | —             | 76             | 83     | 10     | name.com  |
-| open.hamburg          | resell    | —         | —             | 70             | 60     | 4      | —         |
+| newlook.hamburg       | available | $59.99    | —             | 66             | 80     | 8      | name.com  |
+| online.hamburg        | resell    | —         | —             | 70             | 62     | 7      | —         |
+| CostaRica.hamburg     | premium   | —         | —             | 74             | 94     | 10     | —         |
+| makers.hamburg        | available | $59.99    | —             | 62             | 67     | 6      | name.com  |
+| cars.hamburg          | resell    | —         | —             | 66             | 47     | 4      | —         |
+| SierraLeone.hamburg   | premium   | —         | —             | 62             | 92     | 12     | —         |
+| whitestuff.hamburg    | available | $59.99    | —             | 60             | 62     | 11     | name.com  |
+| photos.hamburg        | resell    | —         | —             | 54             | 28     | 6      | —         |
+| IsleofMan.hamburg     | premium   | —         | —             | 62             | 91     | 11     | —         |
+| farmers.hamburg       | available | $59.99    | —             | 54             | 59     | 7      | name.com  |
+| shops.hamburg         | resell    | —         | —             | 64             | 24     | 5      | —         |
+| CocaCola.hamburg      | premium   | —         | —             | 92             | 82     | 9      | —         |
+| robots.hamburg        | available | $59.99    | —             | 62             | 47     | 6      | name.com  |
+| girls.hamburg         | resell    | —         | —             | 83             | 23     | 5      | —         |
+| Uber.hamburg          | premium   | —         | —             | 88             | 82     | 4      | —         |
+| coins.hamburg         | available | $59.99    | —             | 56             | 41     | 5      | name.com  |
+| happybirthday.hamburg | resell    | —         | —             | 92             | 18     | 14     | —         |
+| Spotify.hamburg       | premium   | —         | —             | 78             | 69     | 7      | —         |
+| lets.hamburg          | available | $59.99    | —             | 77             | 39     | 4      | name.com  |
+| houses.hamburg        | resell    | —         | —             | 66             | 18     | 6      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 5,097-row public sample | 5,097 live domains                               |
+| 1,000-row public sample | 9,801 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAMBURG One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAMBURG One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
