@@ -75,10 +75,10 @@ print(df.head())
 | IsleofMan.hamburg     | premium   | —         | —             | 62             | 91     | 11     | —         |
 | farmers.hamburg       | available | $59.99    | —             | 54             | 59     | 7      | name.com  |
 | girls.hamburg         | resell    | —         | —             | 83             | 23     | 5      | —         |
-| CocaCola.hamburg      | premium   | —         | —             | 92             | 82     | 9      | —         |
+| Uber.hamburg          | premium   | —         | —             | 88             | 85     | 4      | —         |
 | robots.hamburg        | available | $59.99    | —             | 62             | 47     | 6      | name.com  |
 | happybirthday.hamburg | resell    | —         | —             | 92             | 18     | 14     | —         |
-| Uber.hamburg          | premium   | —         | —             | 88             | 82     | 4      | —         |
+| CocaCola.hamburg      | premium   | —         | —             | 92             | 82     | 9      | —         |
 | coins.hamburg         | available | $59.99    | —             | 56             | 41     | 5      | name.com  |
 | houses.hamburg        | resell    | —         | —             | 66             | 18     | 6      | —         |
 | Spotify.hamburg       | premium   | —         | —             | 78             | 69     | 7      | —         |
