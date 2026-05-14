@@ -64,7 +64,7 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| newlook.hamburg       | available | $59.99    | —             | 66             | 80     | 8      | name.com  |
+| newlook.hamburg       | available | $59.99    | —             | 66             | 81     | 8      | name.com  |
 | online.hamburg        | resell    | —         | —             | 70             | 62     | 7      | —         |
 | CostaRica.hamburg     | premium   | —         | —             | 74             | 94     | 10     | —         |
 | makers.hamburg        | available | $59.99    | —             | 62             | 67     | 6      | name.com  |
