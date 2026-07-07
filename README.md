@@ -1,10 +1,10 @@
-# Available .HAMBURG One-Word Domains (10,355)
+# Available .HAMBURG One-Word Domains (10,360)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C355%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C360%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .hamburg one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,355 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,360 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,355 domains · **Median ask:** $60.68 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,360 domains · **Median ask:** $60.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/hamburg`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/hamburg`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HAMBURG one-word doma
 
 ### Files
 
-- `hamburg.csv` — public CSV extract (1,000 rows)
-- `hamburg.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hamburg.csv`, public CSV extract (1,000 rows)
+- `hamburg.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| newlook.hamburg       | available | $59.99    | —             | 66             | 81     | 8      | name.com  |
-| online.hamburg        | resell    | —         | —             | 70             | 62     | 7      | —         |
-| CostaRica.hamburg     | premium   | —         | —             | 74             | 94     | 10     | —         |
-| makers.hamburg        | available | $59.99    | —             | 62             | 67     | 6      | name.com  |
-| photos.hamburg        | resell    | —         | —             | 54             | 28     | 6      | —         |
-| SierraLeone.hamburg   | premium   | —         | —             | 62             | 92     | 12     | —         |
-| whitestuff.hamburg    | available | $59.99    | —             | 60             | 62     | 11     | name.com  |
-| shops.hamburg         | resell    | —         | —             | 64             | 24     | 5      | —         |
-| IsleofMan.hamburg     | premium   | —         | —             | 62             | 91     | 11     | —         |
-| farmers.hamburg       | available | $59.99    | —             | 54             | 59     | 7      | name.com  |
-| girls.hamburg         | resell    | —         | —             | 83             | 23     | 5      | —         |
-| Uber.hamburg          | premium   | —         | —             | 88             | 85     | 4      | —         |
-| robots.hamburg        | available | $59.99    | —             | 62             | 47     | 6      | name.com  |
-| happybirthday.hamburg | resell    | —         | —             | 92             | 18     | 14     | —         |
-| CocaCola.hamburg      | premium   | —         | —             | 92             | 82     | 9      | —         |
-| coins.hamburg         | available | $59.99    | —             | 56             | 41     | 5      | name.com  |
-| houses.hamburg        | resell    | —         | —             | 66             | 18     | 6      | —         |
-| Spotify.hamburg       | premium   | —         | —             | 78             | 69     | 7      | —         |
-| lets.hamburg          | available | $59.99    | —             | 77             | 39     | 4      | name.com  |
-| Citibank.hamburg      | premium   | —         | —             | 74             | 67     | 8      | —         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ace.hamburg    | available | $59.99    | $59.99        | high           | medium | 3      | name.com  |
+| value.hamburg  | resell    | $554.35   | —             | high           | low    | 5      | name.com  |
+| age.hamburg    | available | $59.99    | —             | high           | low    | 3      | name.com  |
+| system.hamburg | resell    | $59.99    | —             | high           | low    | 6      | name.com  |
+| aid.hamburg    | available | $59.99    | —             | medium         | low    | 3      | name.com  |
+| lp.hamburg     | resell    | —         | —             | medium         | low    | 3      | —         |
+| atp.hamburg    | available | $59.99    | —             | medium         | low    | 3      | name.com  |
+| new.hamburg    | resell    | —         | —             | high           | medium | 3      | —         |
+| awe.hamburg    | available | $59.99    | —             | high           | low    | 3      | name.com  |
+| now.hamburg    | resell    | —         | —             | medium         | medium | 3      | —         |
+| bit.hamburg    | available | $59.99    | —             | high           | medium | 3      | name.com  |
+| web.hamburg    | resell    | —         | —             | high           | medium | 3      | —         |
+| bow.hamburg    | available | $59.99    | —             | high           | low    | 3      | name.com  |
+| boat.hamburg   | resell    | —         | —             | high           | low    | 4      | —         |
+| bra.hamburg    | available | $59.99    | —             | medium         | low    | 3      | name.com  |
+| deal.hamburg   | resell    | —         | —             | medium         | low    | 4      | —         |
+| but.hamburg    | available | $59.99    | —             | high           | low    | 3      | name.com  |
+| film.hamburg   | resell    | —         | —             | high           | low    | 4      | —         |
+| coy.hamburg    | available | $59.99    | $59.99        | medium         | low    | 3      | name.com  |
+| loft.hamburg   | resell    | —         | —             | medium         | low    | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,355 live domains                        |
+| 1,000-row public sample | 10,360 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .hamburg extension, which makes the set highly specific to Hamburg identity, local relevance, and city-linked positioning. The mix includes exact keywords such as pizzeria.hamburg, broader commercial terms like drive.hamburg, and more brandable options such as dreamup.hamburg or gather.hamburg. Median ask is 60.68, which supports quick price comparison across a large pool. When comparing these domains, focus on whether the word is commercially clear, easy to remember, and appropriate for a Hamburg-based business or project. Also check for obvious trademark exposure, especially with names that match well-known people or brands such as tomhanks.hamburg.
+This list covers 10,360 one-word domain names registered under the .hamburg extension. The median asking price sits near $60.64, keeping most names accessible for early-stage brand testing or portfolio building. Examples like Sports.hamburg, Apples.hamburg, and BonAppetit.hamburg show the mix of short, everyday words and compact phrases available in this space. Because .hamburg is a regional, non-mainstream extension, availability and demand can vary more than with a mainstream TLD, so comparing price against clarity and memorability matters before choosing a name.
 
-- Prioritize clear words with direct Hamburg relevance
-- Use median ask 60.68 as a baseline for price discipline
-- Generic terms can be broader; famous names add risk
-- Short, memorable words usually make stronger shortlists
+- 10,360 one-word .hamburg domains in this set
+- Median ask: $60.64 across the selection
+- Mix of short words and compact phrases, e.g. Sports.hamburg
+- Regional .hamburg extension — check demand before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAMBURG One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAMBURG One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
