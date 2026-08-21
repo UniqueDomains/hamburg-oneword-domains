@@ -399,7 +399,7 @@ bc771b25-0c62-4c3f-89cc-5a0ca9cda848,petty.hamburg,available,59.99,,medium,low,5
 396e9b19-1fcf-4483-aff1-3647b0d88ea9,voter.hamburg,available,59.99,,medium,low,5,name.com,,
 e73319ee-ba4a-47ba-9af0-286529dde792,greatuncle.hamburg,available,59.99,,high,low,11,name.com,,
 e688264e-6b99-4f91-8426-5ff6bfb60c36,retail.hamburg,available,59.99,,high,low,6,name.com,,
-13898236-4153-4069-9458-811263d86484,attack.hamburg,available,59.99,,high,low,6,name.com,,
+13898236-4153-4069-9458-811263d86484,attack.hamburg,available,59.99,59.99,medium,low,6,name.com,,
 235c6741-7d0a-4580-98fd-1be676a03bec,watt.hamburg,available,59.99,,medium,low,4,name.com,,
 7bf9922c-f15d-423b-85c2-cf739ac6d16b,overall.hamburg,available,59.99,,high,low,7,name.com,,
 edc7c5c5-0ddb-4a75-a7c3-60aa8e59dede,examine.hamburg,available,59.99,,high,low,7,name.com,,
@@ -415,7 +415,7 @@ b68f1a87-d962-43e1-9ebf-74a191351978,earliest.hamburg,available,59.99,59.99,medi
 fc3247b4-3cbe-44e2-b419-4cc0ec273e8f,almond.hamburg,available,59.99,,medium,low,6,name.com,,
 d6b3e7b3-ebd1-4658-94ca-2d3839d035a5,unfearing.hamburg,available,59.99,,high,low,9,name.com,,
 71318290-4c7b-4212-8c30-f7d1f97880c0,meddle.hamburg,available,59.99,,medium,low,6,name.com,,
-384c5623-7335-4775-bdbe-62f7115da742,cheese.hamburg,available,59.99,,high,low,6,name.com,,
+384c5623-7335-4775-bdbe-62f7115da742,cheese.hamburg,available,59.99,59.99,medium,low,6,name.com,,
 d82dbbcd-e30b-4061-8fd4-f56f7d317698,june.hamburg,available,59.99,,high,low,4,name.com,,
 c9c69d1e-d15c-4db7-8977-32c98cf25245,atbest.hamburg,available,59.99,,medium,low,7,name.com,,
 a4e296d4-68e4-4f3a-a8ed-14d7f6519837,boat.hamburg,resell,,,high,low,4,,28/08/2014 16:03,28/08/2027 16:03
