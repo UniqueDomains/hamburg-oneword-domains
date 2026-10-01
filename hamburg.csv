@@ -1,22 +1,28 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 2a13778c-fedd-4523-a421-1a5ff4a721c9,blunt.hamburg,available,69.98,73.98,high,low,5,namecheap,,,22/09/2026 23:15
 28436902-19be-4ab0-a462-752169ce8977,backbench.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,21/09/2026 15:00
-c903f942-2c28-49a8-9b06-055d129a2225,sperm.hamburg,available,59.99,,high,low,5,name.com,,,
+c903f942-2c28-49a8-9b06-055d129a2225,sperm.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 11:38
 bb9a9cd5-16b7-4ab7-abdc-5ede7f29ccb2,cheap.hamburg,available,69.98,73.98,high,low,5,namecheap,,,23/09/2026 11:03
 7a335ac6-78aa-4257-bb77-ea120d046e0c,ambition.hamburg,available,69.98,73.98,high,low,8,namecheap,,,18/09/2026 16:53
+74c6851f-d8f8-401e-9aa3-345f2caf1261,danes.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 14:16
 c33aff6e-1f53-41a6-ab67-14217586dd00,role.hamburg,available,69.98,73.98,high,low,4,namecheap,,,25/09/2026 09:54
 aedced68-beb6-43de-9732-83b370e584e4,unadjusted.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,11/09/2026 23:52
 85feda65-c631-4f2d-8439-ed26419ba35e,regard.hamburg,available,69.98,73.98,high,low,6,namecheap,,,08/09/2026 11:00
 88ee1eff-84c0-4406-a9ba-1c9836fac12f,serial.hamburg,available,59.99,59.99,high,low,6,name.com,,,21/08/2026 23:54
 1364f237-0343-47c9-b0e6-80831d03b73b,separated.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,19/09/2026 04:08
+70bc9995-8e54-4c66-85cb-852ebaa532e5,exercised.hamburg,available,69.98,73.98,high,low,9,namecheap,,,30/09/2026 11:52
 9bc29c6c-6bfe-4a20-9cd8-aa69c415c466,manifestation.hamburg,available,69.98,73.98,high,low,13,namecheap,,,29/09/2026 22:53
+3b8dbe7e-44f4-4921-9003-5723ab16c2ed,stumble.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 10:30
 bb91545c-e120-4c53-acf3-0cb4d83754f2,spatter.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,15/09/2026 20:19
 a67d6fc2-b571-4278-b0be-d23b13d005de,feeding.hamburg,available,69.98,73.98,high,low,7,namecheap,,,25/09/2026 22:30
-fd2b2450-0a81-4f93-bbb6-a40650c16512,affidavit.hamburg,available,69.98,73.98,high,low,9,namecheap,,,28/09/2026 19:16
+fd2b2450-0a81-4f93-bbb6-a40650c16512,affidavit.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,28/09/2026 19:16
 a52ba7a9-530e-4baa-8083-f4cab8074bda,cutely.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,14/09/2026 09:59
 1860e6cd-5877-4d6f-838e-b6623c6dd0e5,cook.hamburg,available,69.98,73.98,high,low,4,namecheap,,,27/09/2026 10:07
-f19fbe4d-cc02-44a9-8d41-59c78a155f99,commentary.hamburg,available,69.98,73.98,high,low,10,namecheap,,,29/09/2026 06:24
+23efd76e-79ed-48ff-86f5-00d718243d52,toto.hamburg,available,69.98,73.98,high,high,4,namecheap,,,30/09/2026 12:43
+5f587aa1-b4fb-4f78-9d40-8521ec6c2210,hpv.hamburg,available,69.98,73.98,high,low,3,namecheap,,,30/09/2026 23:05
+f19fbe4d-cc02-44a9-8d41-59c78a155f99,commentary.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,29/09/2026 06:24
 a8e16bb4-f904-49cc-a634-9932d1f73cd4,layered.hamburg,available,59.99,59.99,high,low,7,name.com,,,22/08/2026 21:32
+6a2a0a24-f1a6-4c3a-bf5d-2a82ed28539f,technol.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,30/09/2026 06:44
 98b7986b-52bd-4e70-b413-bf35b398290a,distinctions.hamburg,available,69.98,73.98,medium,low,12,namecheap,,,20/09/2026 03:54
 96d6359a-f7bf-4720-b961-f338ce7e24b1,friction.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 01:01
 edb581d7-83a2-42f2-86eb-7c3e453f9a05,enzyme.hamburg,available,69.98,73.98,high,low,6,namecheap,,,29/09/2026 12:12
@@ -26,7 +32,7 @@ c86468fb-a53a-4c00-b474-1156ef4ee885,wroth.hamburg,available,69.98,73.98,medium,
 8ded7aac-2c11-4c8a-9b5c-9df6568cda82,inmost.hamburg,available,59.99,59.99,medium,low,6,name.com,,,22/08/2026 05:51
 eddc9eac-b617-48c4-b276-afeab22606fd,egyptian.hamburg,available,59.99,59.99,high,low,8,name.com,,,15/08/2026 19:52
 b2010785-ae05-4776-84c2-cfab76cf0f68,screenshots.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,20/09/2026 11:10
-a1189344-fd96-45db-96e0-7b63329e8cc5,blurred.hamburg,available,69.98,73.98,high,low,7,namecheap,,,22/09/2026 23:21
+a1189344-fd96-45db-96e0-7b63329e8cc5,blurred.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,22/09/2026 23:21
 76355289-c9f9-4d8f-8a52-b8a1f01b7d7f,downgrade.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,24/09/2026 23:39
 3f4a8a6f-fa72-4e33-a2a5-c9d5c87bdc38,effectual.hamburg,available,59.99,59.99,high,low,9,name.com,,,15/08/2026 14:20
 3b66380f-3f30-49f4-98c6-50c71f7e3fa9,agassiz.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,17/09/2026 16:23
@@ -36,27 +42,30 @@ a1189344-fd96-45db-96e0-7b63329e8cc5,blurred.hamburg,available,69.98,73.98,high,
 d957353d-91a2-4ced-97f6-9dce31e17fc0,simplex.hamburg,available,69.98,73.98,high,medium,7,namecheap,,,10/09/2026 08:15
 9623082d-c010-4461-8ab5-8b6e99d865bb,oath.hamburg,available,69.98,73.98,high,low,4,namecheap,,,27/09/2026 12:47
 8f89a90a-7274-4898-9b15-da6cceea43cc,celluloid.hamburg,available,59.99,59.99,high,low,9,name.com,,,11/08/2026 23:34
-a54a61a3-7637-41e4-a510-95658f6b54f2,ones.hamburg,available,59.99,,high,low,4,name.com,,,
+a54a61a3-7637-41e4-a510-95658f6b54f2,ones.hamburg,available,69.98,73.98,high,low,4,namecheap,,,01/10/2026 02:13
 88821812-c863-450b-901e-b68fc6eac860,supplied.hamburg,available,59.99,,medium,low,8,name.com,,,
 e4a99d55-a042-45d0-a8bc-c81010708d5b,counting.hamburg,available,59.99,59.99,high,low,8,name.com,,,25/09/2026 04:26
-ec11f72a-5ab0-4f3b-be04-754dff690d70,coordinate.hamburg,available,69.98,73.98,high,low,10,namecheap,,,08/09/2026 03:35
-84954ab7-0eb5-4390-966f-27153d74d3e6,insinuate.hamburg,available,59.99,59.99,high,low,9,name.com,,,22/08/2026 08:35
-539253f5-415d-4c9a-90ca-56a3c8a49439,damascene.hamburg,available,59.99,59.99,high,low,9,name.com,,,13/08/2026 16:07
+c02734a2-b1cd-4d4a-b229-8d08a31be192,overture.hamburg,available,69.98,73.98,high,low,8,namecheap,,,30/09/2026 18:16
+ec11f72a-5ab0-4f3b-be04-754dff690d70,coordinate.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,30/09/2026 06:06
+84954ab7-0eb5-4390-966f-27153d74d3e6,insinuate.hamburg,available,59.99,59.99,medium,low,9,name.com,,,22/08/2026 08:35
+539253f5-415d-4c9a-90ca-56a3c8a49439,damascene.hamburg,available,59.99,59.99,medium,low,9,name.com,,,13/08/2026 16:07
 d2ee0d53-3a75-47f6-8ff0-30080b8e4a4e,maleficent.hamburg,available,59.99,59.99,medium,low,10,name.com,,,24/08/2026 13:58
 7a5d79a5-75b0-453e-9d74-67b58033fd76,columnar.hamburg,available,59.99,59.99,medium,low,8,name.com,,,12/08/2026 18:14
-4e5ad92f-b2b4-470b-b82d-4924b7c1777d,disuse.hamburg,available,69.98,73.98,high,low,6,namecheap,,,24/09/2026 23:14
-fab23209-8143-4115-8d7c-5a1076f5a00e,flew.hamburg,available,59.99,,high,low,4,name.com,,,
-7473796e-728b-48cb-a3c2-b6f06c044a74,angled.hamburg,available,59.99,59.99,high,low,6,name.com,,,
+4e5ad92f-b2b4-470b-b82d-4924b7c1777d,disuse.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,24/09/2026 23:14
+fab23209-8143-4115-8d7c-5a1076f5a00e,flew.hamburg,available,69.98,73.98,high,low,4,namecheap,,,30/09/2026 22:39
+7473796e-728b-48cb-a3c2-b6f06c044a74,angled.hamburg,available,59.99,59.99,medium,low,6,name.com,,,
 c17f12df-d27b-4d08-9ca8-faeea4450b6a,conniption.hamburg,available,59.99,59.99,medium,low,10,name.com,,,18/08/2026 05:43
 be6fa43a-60a5-4268-8166-04c1aef6a12e,proceedings.hamburg,available,69.98,73.98,high,low,11,namecheap,,,28/09/2026 12:34
 f1afba26-d09f-4740-a99b-8ea8b4c293f1,between.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 11:25
 75f6127e-978f-4f04-a5d2-ed5016833558,moonstruck.hamburg,available,59.99,59.99,medium,low,10,name.com,,,24/08/2026 11:18
+546e8e76-f392-4b9a-accb-a9c357414ffe,turkestan.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,30/09/2026 03:05
+0a28e81c-dc1c-4d0f-941e-7335660243c1,nicolson.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,01/10/2026 02:25
 6dc2adbb-a250-41a4-b242-0d1f73a98348,unoccupied.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,12/09/2026 16:09
 018d18e4-3356-4cb3-b185-e64522769448,ruhr.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,29/09/2026 02:04
 92fcc37f-6c8e-4556-8f98-7304483bc210,teetotal.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,11/09/2026 10:14
 82274490-256c-42de-a367-6e276b919814,populace.hamburg,available,69.98,73.98,high,low,8,namecheap,,,09/09/2026 05:22
 254612db-6610-4ffd-8c8e-15a75dc7bd1a,paralysis.hamburg,available,69.98,73.98,high,low,9,namecheap,,,29/09/2026 13:39
-833ee170-e64e-4898-becf-5dbcdd49de66,acanthus.hamburg,available,69.98,73.98,high,low,8,namecheap,,,16/09/2026 21:02
+833ee170-e64e-4898-becf-5dbcdd49de66,acanthus.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,16/09/2026 21:02
 701ee8f2-af95-4ce4-a992-a64c6ff95dd1,tidy.hamburg,available,59.99,59.99,high,low,4,name.com,,,20/08/2026 16:42
 924265bb-cad0-461f-a59c-f9f26676d09d,consciousness.hamburg,available,69.98,73.98,high,low,13,namecheap,,,28/09/2026 08:13
 fed52daf-cc43-458a-9762-fee451188efe,oysters.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,20/09/2026 03:31
@@ -67,11 +76,12 @@ fed52daf-cc43-458a-9762-fee451188efe,oysters.hamburg,available,69.98,73.98,mediu
 3f6e7948-ee49-45b6-8454-473ba3e73c21,fishy.hamburg,available,59.99,59.99,high,low,5,name.com,,,18/08/2026 05:32
 4ccd7aaa-88db-4d91-a3ce-b7412296a7bf,aloe.hamburg,available,69.98,73.98,high,low,4,namecheap,,,18/09/2026 12:59
 f8767ea8-2a76-4f60-a90f-37d999175427,stemless.hamburg,available,59.99,59.99,medium,low,8,name.com,,,
-ceab7595-daac-4862-a038-258272bac7c1,uncover.hamburg,available,59.99,,high,low,7,name.com,,,
+ceab7595-daac-4862-a038-258272bac7c1,uncover.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 16:42
 d84c47d4-449a-4f02-b9d9-5a601f010bc2,symmetric.hamburg,available,69.98,73.98,high,low,9,namecheap,,,11/09/2026 06:03
 40f623ba-3e26-4a67-9643-5d0689096397,diskette.hamburg,available,59.99,59.99,high,low,8,name.com,,,18/08/2026 08:53
 d0db138f-c077-44ea-ad18-9867e36fba50,alliaceous.hamburg,available,59.99,59.99,medium,low,10,name.com,,,
 b5930229-3534-4be6-9b60-e3c173b5515e,bromic.hamburg,available,59.99,59.99,medium,low,6,name.com,,,11/08/2026 05:32
+9d8c97ee-8399-4066-9660-59c961daea23,scholarships.hamburg,available,69.98,73.98,high,low,12,namecheap,,,30/09/2026 07:48
 7492a7fa-e89a-4e8a-8e7f-92ae18337633,madly.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,14/09/2026 09:19
 b24dcfbe-2510-471b-bd82-920f66e9091b,swim.hamburg,available,69.98,73.98,high,low,4,namecheap,,,28/09/2026 02:10
 738fc72d-3b3e-4fe4-8028-20b977b6ae0c,geographic.hamburg,available,59.99,59.99,high,low,10,name.com,,,18/08/2026 22:27
@@ -81,7 +91,7 @@ dbd27ded-f44f-4f14-8ed7-5fd157ab39cb,overview.hamburg,available,69.98,73.98,high
 c8cbd99f-d49d-4b9c-a60f-20d17db1a611,respond.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 21:35
 ee4ad997-219a-442a-95d6-c56f9609ec89,opportunity.hamburg,available,69.98,73.98,high,low,11,namecheap,,,27/09/2026 02:17
 4b3eefbb-4d34-4932-a7d7-f6c485985d01,ismaili.hamburg,available,59.99,59.99,high,low,7,name.com,,,22/08/2026 10:53
-c3df378c-9b09-4de1-93d8-a51f877c08e9,corresponding.hamburg,available,59.99,,high,low,13,name.com,,,
+c3df378c-9b09-4de1-93d8-a51f877c08e9,corresponding.hamburg,available,59.99,,medium,low,13,name.com,,,
 6a3c731b-966d-4c0e-b612-b5f424e58285,drifter.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,13/09/2026 00:50
 9cd82cfa-b2c8-402d-b1ee-d9a5d1a4dd9b,bareback.hamburg,available,59.99,59.99,medium,low,8,name.com,,,08/08/2026 18:38
 52deb373-ffd0-41a6-85ae-2328e98ed77b,overcomes.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,21/09/2026 04:26
@@ -93,14 +103,15 @@ a5a5ef11-f512-4f3e-ac1b-1d90171fc076,longfellow.hamburg,available,69.98,73.98,me
 55a69e52-34b2-4858-80ac-e34de4ce5d6b,raped.hamburg,available,59.99,59.99,medium,low,5,name.com,,,14/08/2026 04:27
 a50d14dc-7b02-4639-a8ff-948983bbeab5,bathe.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 01:32
 d9737671-6835-40e2-a783-967b30c0c543,sponsored.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,29/09/2026 10:41
-be2676ca-3fd7-4e1e-a6b3-d581c3516e20,belladonna.hamburg,available,69.98,73.98,high,low,10,namecheap,,,21/09/2026 00:55
+e417c11e-6d53-45cc-a545-bbc63c18e30b,syringe.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 11:09
+be2676ca-3fd7-4e1e-a6b3-d581c3516e20,belladonna.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,21/09/2026 00:55
 8abc8116-ce2f-4219-85fc-8bfa579169fb,abelian.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 08:39
 380d9fe1-bb40-4bac-97c3-a8d9a28b4cdc,parametric.hamburg,available,69.98,73.98,high,low,10,namecheap,,,08/09/2026 01:01
 7aa91785-5285-4c39-aec7-c45de24f081d,unprompted.hamburg,available,59.99,59.99,medium,low,10,name.com,,,21/08/2026 23:28
 1f9a35e1-30b6-441e-9345-6e63b6aaee6b,knows.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,28/09/2026 10:33
 176c3c3f-ee49-4aa3-a789-2f4f3698c199,includes.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,28/09/2026 08:22
 b4675c8e-eda4-4295-81c2-68970bcf6f1d,texted.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,20/09/2026 17:16
-3354469b-dd53-42f0-8abe-6f13d2deeb88,eid.hamburg,available,59.99,,high,low,3,name.com,,,
+3354469b-dd53-42f0-8abe-6f13d2deeb88,eid.hamburg,available,69.98,73.98,high,low,3,namecheap,,,01/10/2026 02:59
 fb099603-e431-48b0-a5d2-8672d1e9b385,fruit.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 20:03
 e64da719-0ffa-4101-9fd0-6b44a00337ba,maps.hamburg,available,59.99,59.99,high,low,4,name.com,,,
 7e8639f1-8e05-48c8-ba07-3c53bea473c9,ignoring.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,28/09/2026 11:32
@@ -109,7 +120,7 @@ eb534058-f00f-4481-999a-51b1ee0629ed,alecto.hamburg,available,69.98,73.98,medium
 59e1ce0d-c619-4062-9430-a801c0e102d0,allometry.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,18/09/2026 11:57
 53c54810-9037-49aa-87b1-49b55be1e598,replaces.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,20/09/2026 05:35
 b991d9ab-adc6-4ec6-a90b-9fd0433500e1,unshaded.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,12/09/2026 19:27
-de047fec-399f-482f-bd1f-2a64ab39837b,ventilation.hamburg,available,69.98,73.98,high,low,11,namecheap,,,29/09/2026 04:52
+de047fec-399f-482f-bd1f-2a64ab39837b,ventilation.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,29/09/2026 04:52
 54931c48-f3c8-4991-9d7b-167ffdaf1c70,retinal.hamburg,available,59.99,59.99,high,low,7,name.com,,,09/09/2026 15:37
 d25c0686-bb4b-4660-a9d4-fea8e9406e22,deep.hamburg,available,69.98,73.98,high,medium,4,namecheap,,,21/09/2026 15:15
 f5f05300-0127-4798-ad40-934f1cf3ce8c,peritoneal.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,08/09/2026 17:25
@@ -118,18 +129,20 @@ a579bcd1-6c3b-494b-83f9-f5d31ef54e88,silty.hamburg,available,69.98,73.98,high,me
 b709aafb-faa0-44a9-9175-31a9c9093ad5,dextrous.hamburg,available,59.99,59.99,high,low,8,name.com,,,13/08/2026 23:53
 111cef62-5bce-4966-9d09-4248b81e1ff2,watertight.hamburg,available,59.99,59.99,high,low,10,name.com,,,11/08/2026 08:34
 17d8c7c3-852c-4f2d-b363-5c980cededef,resisted.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 16:36
-f5af5fa5-51dc-42f5-8221-d3763e56bb87,garbanzo.hamburg,available,69.98,73.98,high,low,8,namecheap,,,24/09/2026 14:31
+f5af5fa5-51dc-42f5-8221-d3763e56bb87,garbanzo.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,24/09/2026 14:31
 f2eff00b-26f0-42e7-a4aa-17606a2c7dfa,fun.hamburg,resell,,,high,medium,3,,20/04/2016 14:44,20/04/2027 14:44,30/09/2026 00:02
 9b289c7e-a9aa-4c5b-a8c6-a67a3cc68a94,concentration.hamburg,available,59.99,59.99,high,low,13,name.com,,,27/09/2026 21:44
 9d2ef3a9-27ba-4d61-88eb-8600a6b4e8b8,flowery.hamburg,available,59.99,59.99,high,low,7,name.com,,,18/08/2026 09:09
 65811e4a-e5b5-457f-a0fa-6dd599b49872,offers.hamburg,available,69.98,73.98,high,low,6,namecheap,,,27/09/2026 23:51
-981173ed-bcae-4eb2-9336-f4d70f5e02bf,erse.hamburg,available,59.99,59.99,high,low,4,name.com,,,18/08/2026 19:28
+981173ed-bcae-4eb2-9336-f4d70f5e02bf,erse.hamburg,available,59.99,59.99,medium,low,4,name.com,,,18/08/2026 19:28
 d7cc33cf-36eb-48d5-b9fc-e980d4ac3092,oxidized.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,04/09/2026 22:25
 8af4097b-8e3e-48fd-aced-40e2631d0786,negotiations.hamburg,available,69.98,73.98,medium,low,12,namecheap,,,17/09/2026 08:01
 43fc7748-bb25-45ce-ad4a-a9bb72e7545d,unafraid.hamburg,available,69.98,73.98,high,low,8,namecheap,,,10/09/2026 01:28
 6e4554ac-af5d-4dd5-8315-605f865e9e08,controller.hamburg,available,69.98,73.98,high,low,10,namecheap,,,28/09/2026 06:44
 db2ea9c8-ba76-420a-8c04-f22c71d51465,regular.hamburg,available,69.98,73.98,high,low,7,namecheap,,,27/09/2026 11:38
+b0881a85-5660-4afb-81cb-d3674234d69e,exploits.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,30/09/2026 15:37
 6b7a5cd3-c361-44d0-b775-32c2a5b280b6,tyler.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,25/09/2026 08:02
+5cf78c75-87a2-4893-920f-4b67d54cfdac,nominees.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,30/09/2026 16:22
 1e189fd1-30aa-43a0-ab15-86a0375db0db,illusion.hamburg,available,69.98,73.98,high,low,8,namecheap,,,24/09/2026 16:35
 4b41b864-cf12-4763-b8ee-296b21c3f89c,phylliform.hamburg,available,69.98,73.98,high,medium,10,namecheap,,,08/09/2026 19:24
 904d03eb-cbff-4a66-a952-28599ac3b74d,cancerous.hamburg,available,59.99,59.99,medium,low,9,name.com,,,11/08/2026 16:33
@@ -142,16 +155,17 @@ ca1ceda7-6bfd-4236-ab73-5d204fdf386d,concludes.hamburg,available,69.98,73.98,med
 9e008c84-fec1-4f90-b239-bda6b0ff9ef3,oran.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 07:47
 5cd2e503-ab54-427b-9915-65b05f7d693d,twins.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,25/09/2026 06:26
 8386e6e1-60bf-42da-89cc-0d74ec240707,adnate.hamburg,available,59.99,59.99,medium,low,6,name.com,,,
+dc574553-12a1-419c-879c-7003c06d4c69,rios.hamburg,available,69.98,73.98,high,low,4,namecheap,,,30/09/2026 04:44
 d203a3ce-f3b1-446b-a5a8-e42fdddd6bf5,amateur.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 03:23
-de85d867-e236-4535-930b-41ad7cf94a76,evacuation.hamburg,available,69.98,73.98,high,low,10,namecheap,,,28/09/2026 09:36
+de85d867-e236-4535-930b-41ad7cf94a76,evacuation.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,28/09/2026 09:36
 cd053027-87f4-4ae7-89ef-54e463cdbbe2,compliments.hamburg,available,69.98,73.98,high,low,11,namecheap,,,29/09/2026 17:00
 b1bb82d4-3395-47f9-86c0-426670dec0d4,sable.hamburg,available,59.99,59.99,high,low,5,name.com,,,14/08/2026 23:11
-e44034bb-40c4-40da-873a-8c214d9a5d39,overactive.hamburg,available,59.99,59.99,high,low,10,name.com,,,21/08/2026 16:42
+e44034bb-40c4-40da-873a-8c214d9a5d39,overactive.hamburg,available,59.99,59.99,medium,low,10,name.com,,,21/08/2026 16:42
 0029ddd6-e019-4ccc-b426-410a1681811f,majestic.hamburg,available,69.98,73.98,high,low,8,namecheap,,,25/09/2026 16:12
 44e0bc94-e3dd-4a75-aeb7-9081bfd3a609,uncordial.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,12/09/2026 06:13
 c932dbd4-cb5d-45ac-992a-5593a776bc2e,airfield.hamburg,available,69.98,73.98,high,low,8,namecheap,,,17/09/2026 23:09
 b112eea1-b391-44bd-bb37-4b5487adeec3,kerr.hamburg,available,69.98,73.98,high,low,4,namecheap,,,25/09/2026 19:26
-aad9a27e-6970-4a64-9000-0ba817914c3f,upon.hamburg,available,69.98,73.98,high,low,4,namecheap,,,27/09/2026 11:32
+aad9a27e-6970-4a64-9000-0ba817914c3f,upon.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,01/10/2026 01:32
 872c4b45-61a1-4837-b09f-f6a7bed9cfc5,finely.hamburg,available,69.98,73.98,high,low,6,namecheap,,,14/09/2026 11:23
 74e86024-8f7d-43f4-9552-7e53cc9b540b,mohamed.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 04:07
 38a6af6a-878f-48e0-994c-fd99ac361d4e,unassigned.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,12/09/2026 01:12
@@ -182,7 +196,9 @@ baa1e885-5f5d-4596-afd5-9914e31d8dc1,seamless.hamburg,available,59.99,59.99,high
 5ec302a7-1297-4889-a483-38af32f076fb,such.hamburg,available,69.98,73.98,high,low,4,namecheap,,,28/09/2026 01:50
 126e0a94-7c6d-4e7f-a82f-15f7a78923b5,alupent.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,18/09/2026 15:17
 1518415f-dfa2-405a-9b0c-8f81f917f614,checkers.hamburg,available,69.98,73.98,high,low,8,namecheap,,,24/09/2026 13:59
+aabd8bc7-2a72-45ee-a48f-fbfae0f38b23,sewage.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,30/09/2026 02:49
 e36615ff-f288-4470-a50e-ec75d7b5a822,assets.hamburg,available,69.98,73.98,high,low,6,namecheap,,,20/09/2026 16:21
+33531e5d-af27-41cc-a5cf-3360ed65bc5b,blanks.hamburg,available,69.98,73.98,low,low,6,namecheap,,,01/10/2026 00:46
 baddb81a-e12f-4d94-9fb2-26cf084345e7,sinitic.hamburg,available,69.98,73.98,high,medium,7,namecheap,,,10/09/2026 08:29
 93075457-07f6-4f4d-9bd6-c29a70c834cc,baptists.hamburg,available,69.98,73.98,high,low,8,namecheap,,,22/09/2026 03:33
 8f7ff19d-c956-472a-b792-012d954013e3,unfeasible.hamburg,available,59.99,59.99,medium,low,10,name.com,,,21/08/2026 22:56
@@ -191,10 +207,10 @@ e9174c32-6314-4cea-a296-234e2d439e98,salacious.hamburg,available,59.99,59.99,med
 7d83275c-8830-4554-b7ec-7cf666b5ca73,artist.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 12:11
 a841e1ee-48b5-4723-9030-56177106439f,marshall.hamburg,available,69.98,73.98,high,low,8,namecheap,,,25/09/2026 05:06
 26a162da-6a58-4d0d-9345-d826216eb929,fixing.hamburg,available,69.98,73.98,high,low,6,namecheap,,,18/09/2026 14:47
-dbcefce7-22e1-405c-a285-94308d79eecb,tangibly.hamburg,available,69.98,73.98,high,low,8,namecheap,,,16/09/2026 07:54
+dbcefce7-22e1-405c-a285-94308d79eecb,tangibly.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,16/09/2026 07:54
 906fdc52-4afb-4700-9e73-167df7983f6b,remarkable.hamburg,available,59.99,59.99,high,low,10,name.com,,,09/09/2026 13:42
 71247d8d-e797-444d-ae86-004e8c9cd675,dormant.hamburg,available,59.99,59.99,high,low,7,name.com,,,
-f8ec5952-ae89-4af4-9756-171be6e9bbff,ensuing.hamburg,available,59.99,59.99,high,low,7,name.com,,,17/08/2026 09:51
+f8ec5952-ae89-4af4-9756-171be6e9bbff,ensuing.hamburg,available,59.99,59.99,medium,low,7,name.com,,,17/08/2026 09:51
 3c2f3d29-675d-4bff-a944-4f474baf2d9f,ninth.hamburg,available,59.99,59.99,high,low,5,name.com,,,
 60bd9e79-020e-4ee3-b4d9-2d5b3d6a6716,geddes.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,29/09/2026 15:03
 46ee0d91-1059-4acc-8f80-cb71fcf16c1a,amy.hamburg,available,69.98,73.98,high,low,3,namecheap,,,25/09/2026 16:39
@@ -210,6 +226,7 @@ e54aaca8-a004-476e-b318-dc899bfa8d95,measly.hamburg,available,59.99,59.99,medium
 b3bc248c-8f80-4913-a999-c1a02d9f619f,adoringly.hamburg,available,59.99,59.99,medium,low,9,name.com,,,13/09/2026 17:23
 4afc9f38-cad2-455b-8b41-1e770e3204c2,hairs.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,28/09/2026 08:42
 f7c18d26-2991-4815-b7fa-b21e0d71f0b7,homophonic.hamburg,available,59.99,59.99,medium,low,10,name.com,,,21/08/2026 13:06
+38bc614f-bd02-4af9-9f22-524c8b4a3781,ulcer.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,30/09/2026 11:13
 8dc8b164-47b7-4276-bc4d-cb20f349c33b,chem.hamburg,available,69.98,73.98,high,low,4,namecheap,,,18/09/2026 00:59
 cf296617-ddeb-49c1-a69b-e6c8a590ced6,blatant.hamburg,available,59.99,59.99,medium,low,7,name.com,,,10/08/2026 13:31
 f89c9d4a-a4c1-4f14-b8e5-69ce6b97ee51,supine.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,09/09/2026 15:27
@@ -219,8 +236,8 @@ f8c695df-4d60-41d0-8ea9-fca750e40bde,modish.hamburg,available,59.99,59.99,high,l
 3bd7cec1-4ffa-46a2-a03a-6b9a676d74f1,highbrow.hamburg,available,59.99,59.99,high,low,8,name.com,,,21/08/2026 09:09
 83a34866-5dda-4c20-9544-402c44c737a4,guarantee.hamburg,available,69.98,73.98,high,low,9,namecheap,,,29/09/2026 21:38
 b89bded0-184f-43d1-bdae-1c8eee8cb2a4,biter.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,23/09/2026 22:27
-79a44d2c-6bae-4d86-830d-b9ae52a89eb1,tercet.hamburg,available,59.99,59.99,high,low,6,name.com,,,
-f3e10264-d000-4e3e-b67f-b8f35f3a295a,armoured.hamburg,available,59.99,59.99,high,low,8,name.com,,,06/08/2026 20:10
+79a44d2c-6bae-4d86-830d-b9ae52a89eb1,tercet.hamburg,available,59.99,59.99,medium,low,6,name.com,,,
+f3e10264-d000-4e3e-b67f-b8f35f3a295a,armoured.hamburg,available,59.99,59.99,medium,low,8,name.com,,,06/08/2026 20:10
 ec8db5b3-3935-4f1b-8482-255c1a484751,observable.hamburg,available,69.98,73.98,high,low,10,namecheap,,,03/09/2026 23:59
 f70591ce-0b50-41fe-adfa-446ceaca2884,exploded.hamburg,available,59.99,59.99,medium,low,8,name.com,,,17/08/2026 18:28
 3b56662b-7efc-4b9b-8ca2-d5abd37cbe86,interference.hamburg,available,69.98,73.98,medium,low,12,namecheap,,,28/09/2026 21:09
@@ -228,6 +245,7 @@ f70591ce-0b50-41fe-adfa-446ceaca2884,exploded.hamburg,available,59.99,59.99,medi
 83d60647-594e-4039-b046-0319ebf27620,tuning.hamburg,available,69.98,73.98,high,low,6,namecheap,,,29/09/2026 08:16
 f0aaa960-38b8-46d2-b0ef-e316e30f6b56,hop.hamburg,available,59.99,59.99,high,low,3,name.com,,,25/09/2026 07:30
 0bb7a43b-22ea-433c-a373-bfedd2387e77,shadow.hamburg,available,69.98,73.98,high,medium,6,namecheap,,,29/09/2026 17:19
+55216066-0050-401a-8fb3-afa0953d7bd2,reconstructed.hamburg,available,69.98,73.98,medium,low,13,namecheap,,,30/09/2026 22:29
 62677ddc-f446-4e8b-898a-a26c92eb921c,scrutinize.hamburg,available,59.99,59.99,high,low,10,name.com,,,21/09/2026 03:06
 86b34aa1-a600-4a1f-ac88-8a2d4563c92f,aerides.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,17/09/2026 12:51
 6b3cd619-937e-4476-a162-e37eac2ace79,antinomy.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,19/09/2026 14:49
@@ -241,29 +259,34 @@ bd3ba037-ac5c-48bf-8912-3ed6929d673e,comely.hamburg,available,59.99,59.99,medium
 8eed6a59-1857-48ae-a015-2924121128e7,suburbs.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,29/09/2026 05:04
 d38cc972-614c-4f5b-9cf5-0579a93b5c73,mask.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 10:08
 b542fd4d-5f5f-433d-a8af-973b67ffcc64,mountain.hamburg,available,69.98,73.98,high,low,8,namecheap,,,25/09/2026 20:48
-cf14051c-ef23-428a-b7db-d43e8cdf13be,necessarily.hamburg,available,59.99,,high,low,11,name.com,,,
+cf14051c-ef23-428a-b7db-d43e8cdf13be,necessarily.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,01/10/2026 01:47
 4429da0d-a3f7-4238-a8a7-a9e0c83420fe,dolomitic.hamburg,available,59.99,59.99,medium,low,9,name.com,,,14/08/2026 15:28
 47d22def-0b19-4d1d-8548-c20ba81c21de,barber.hamburg,available,69.98,73.98,high,low,6,namecheap,,,29/09/2026 01:08
 162b5056-d153-4b30-8ab0-eee9da63c0d1,flushed.hamburg,available,59.99,59.99,high,low,7,name.com,,,18/08/2026 09:26
 f589dc50-c4a5-49dd-804a-d142732311f6,berkshire.hamburg,available,69.98,73.98,high,low,9,namecheap,,,23/09/2026 09:33
-215dcf13-a232-43a5-a1b7-e334ef766329,benzine.hamburg,available,69.98,73.98,high,low,7,namecheap,,,23/09/2026 08:53
+215dcf13-a232-43a5-a1b7-e334ef766329,benzine.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,23/09/2026 08:53
+ba622dc2-4c43-4792-990d-0ff09520e87e,supporters.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,30/09/2026 07:11
 fca3666a-396e-4698-90b3-0d040d0dd00e,cookies.hamburg,available,69.98,73.98,high,low,7,namecheap,,,27/09/2026 23:29
 8154877f-e8ae-4ce0-82c4-cf99fd254207,spent.hamburg,available,59.99,59.99,medium,low,5,name.com,,,14/08/2026 14:53
 e77135ab-6366-4675-ac0b-04f975193247,ludicrous.hamburg,available,59.99,59.99,medium,low,9,name.com,,,14/08/2026 02:58
 24856ad3-64ed-4546-879d-aae3417992a9,micro.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,28/09/2026 08:21
 56a27650-d261-4118-a760-177c0b6dc7dd,path.hamburg,available,69.98,73.98,high,low,4,namecheap,,,25/09/2026 07:51
+8afecc13-4795-4127-9172-9a04f52deb90,coulson.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,30/09/2026 21:34
 0812aa7a-3aee-4c7c-a8b8-1a46dc2629e6,disgust.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 15:47
 a36b57af-f69c-4899-8e67-3bce71234a85,ubiquitous.hamburg,available,69.98,73.98,high,low,10,namecheap,,,04/09/2026 13:54
+f1deeb6c-76bf-4381-aa98-c0d8e0f30777,ctc.hamburg,available,69.98,73.98,high,low,3,namecheap,,,01/10/2026 01:36
 ad598c63-21e4-4b0c-8174-25299e8a4320,alca.hamburg,available,69.98,73.98,high,low,4,namecheap,,,18/09/2026 03:36
 2a4a599e-7ed3-4054-bd86-bffd5f424c53,ying.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,28/09/2026 11:38
 19e5fb1d-5b18-479b-9982-ed0f7d80b5e6,embrace.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 17:59
+afbe2714-33c8-4ba9-9e15-2d731bbcb97b,ravine.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 18:25
 94556848-9224-499d-a0b1-7d96bdaeb2be,chemic.hamburg,available,59.99,59.99,medium,low,6,name.com,,,12/08/2026 04:12
 2a109b77-75df-4e54-97f2-94b2586abf3c,fungal.hamburg,available,59.99,59.99,medium,low,6,name.com,,,18/08/2026 18:28
 56893638-fe0a-4fdf-946a-99c6d4901373,fortuitous.hamburg,available,59.99,59.99,high,low,10,name.com,,,18/08/2026 12:43
 b3e8f786-2a04-4259-b4d7-e11f4c358c09,bricole.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,20/09/2026 00:36
 03a946a1-599a-4b02-9e42-cc6e42968b3c,hoyt.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,28/09/2026 08:07
+b54dbb8d-a2db-4f59-82de-0d8e149ed1bf,dames.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,30/09/2026 15:29
 bba225dd-214f-4d23-b2f3-350176cec770,aidoneus.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,17/09/2026 20:53
-57242a38-e6fc-4444-a6a5-138995b98ac0,previous.hamburg,available,59.99,,high,low,8,name.com,,,
+57242a38-e6fc-4444-a6a5-138995b98ac0,previous.hamburg,available,69.98,73.98,high,low,8,namecheap,,,01/10/2026 02:56
 123ad033-fa23-4127-af18-b5a177d583a7,concealed.hamburg,available,69.98,73.98,high,low,9,namecheap,,,23/09/2026 18:33
 b57b49d7-1347-48a9-9e8d-a340beeb36a2,gavin.hamburg,available,69.98,73.98,high,low,5,namecheap,,,26/09/2026 03:29
 8d857317-6fc5-471b-ab55-25dda4d3a350,imitation.hamburg,available,59.99,59.99,high,low,9,name.com,,,18/08/2026 00:14
@@ -277,11 +300,12 @@ bde1c9e7-72f0-4ab3-a5cb-366c8b941f0b,feral.hamburg,available,59.99,59.99,high,lo
 15590050-84b3-4cbb-a10e-917ec010bce9,atonia.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,19/09/2026 00:37
 ad2005fa-629d-4782-8966-5395ed6f8d18,remainder.hamburg,available,59.99,59.99,high,low,9,name.com,,,09/09/2026 15:03
 2e3c5aab-422c-460e-9ef5-60e64b174f14,mystical.hamburg,available,69.98,73.98,high,low,8,namecheap,,,03/09/2026 12:24
+f509af4d-601f-49c4-aff7-0d465c9fbda3,exclusion.hamburg,available,69.98,73.98,high,low,9,namecheap,,,30/09/2026 17:15
 c8151079-7320-4cc9-9354-3ff180ff26e8,dishonored.hamburg,available,59.99,59.99,medium,low,10,name.com,,,14/08/2026 10:23
 db882577-9afa-4a8e-a700-45709c85e22e,actionable.hamburg,available,69.98,73.98,high,low,10,namecheap,,,21/09/2026 16:28
 892c1e17-04f0-464e-a0d9-22af1937e9b4,comparative.hamburg,available,69.98,73.98,high,low,11,namecheap,,,29/09/2026 20:48
 ea084672-90c9-42c3-803d-a38d3606b9dc,crunch.hamburg,available,69.98,73.98,high,low,6,namecheap,,,24/09/2026 19:53
-7995a18a-38b2-4c83-8967-8f46a253ed82,vein.hamburg,available,59.99,,high,low,4,name.com,,,
+7995a18a-38b2-4c83-8967-8f46a253ed82,vein.hamburg,available,69.98,73.98,high,low,4,namecheap,,,30/09/2026 04:35
 2307ce45-9146-45ad-8e08-8d211b3263c1,runty.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,08/09/2026 19:54
 b5e4fe6a-7168-4e99-b83c-354053dff5d6,dazzled.hamburg,available,59.99,59.99,high,low,7,name.com,,,13/08/2026 18:57
 0f795f99-e2f3-4158-af33-e11dd2e98215,meatless.hamburg,available,59.99,59.99,medium,low,8,name.com,,,24/08/2026 18:33
@@ -297,7 +321,7 @@ a83ad791-e46e-4064-ba9a-28dbeddcca3f,rite.hamburg,available,69.98,73.98,high,low
 f688c853-36ee-4017-9dfa-1d8205ce6471,territory.hamburg,available,69.98,73.98,high,low,9,namecheap,,,29/09/2026 16:20
 ced8873d-5152-4a96-9242-1ddba82c1324,stationary.hamburg,available,59.99,59.99,high,low,10,name.com,,,10/09/2026 19:12
 2a7808a7-c12d-473b-96e4-da135cfb2c31,etiquette.hamburg,available,69.98,73.98,high,low,9,namecheap,,,29/09/2026 18:48
-7fcbcc08-98c2-4aee-bb14-81e9b0a4253d,pharaonic.hamburg,available,69.98,73.98,high,low,9,namecheap,,,08/09/2026 18:44
+7fcbcc08-98c2-4aee-bb14-81e9b0a4253d,pharaonic.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,08/09/2026 18:44
 e446a792-5220-4e00-bab7-14e3119ee7bc,scathing.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,09/09/2026 22:57
 c4e2846d-1af3-4d83-83ad-19165e0f1b1a,finals.hamburg,available,59.99,59.99,high,low,6,name.com,,,18/09/2026 22:07
 e7b27524-9dad-4c15-95f4-5f14a11705a7,reptile.hamburg,available,69.98,73.98,high,low,7,namecheap,,,09/09/2026 14:41
@@ -306,7 +330,7 @@ e7b27524-9dad-4c15-95f4-5f14a11705a7,reptile.hamburg,available,69.98,73.98,high,
 e5501972-e502-4427-b595-0e6ae9d26167,bakehouse.hamburg,available,69.98,73.98,high,low,9,namecheap,,,21/09/2026 20:13
 c0e90243-23a1-4600-87be-5deb5dcb516a,barmaid.hamburg,available,69.98,73.98,high,low,7,namecheap,,,22/09/2026 06:36
 e5d09ffa-b0cb-4383-a743-f1dbd2aecd9d,forehand.hamburg,available,59.99,59.99,medium,low,8,name.com,,,18/08/2026 11:38
-3f7ecd06-48ec-4e2a-b6ba-a745990cc775,theater.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 03:50
+3f7ecd06-48ec-4e2a-b6ba-a745990cc775,theater.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 15:56
 0916c0d9-9c57-4855-8608-28a00dd640db,wedded.hamburg,available,69.98,73.98,high,low,6,namecheap,,,13/09/2026 09:30
 94b70eb6-83ab-4f4d-a849-9ee8ff3e4f59,transpolar.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,11/09/2026 18:57
 94b0e28c-a5ad-4010-a653-fc6078fb436e,angelology.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,19/09/2026 06:02
@@ -328,8 +352,7 @@ b1530b7a-6ab4-49da-a760-17365f7a917a,autograph.hamburg,available,69.98,73.98,hig
 a9c27c7a-0424-4826-b78c-b719e80f02ce,congruent.hamburg,available,59.99,59.99,high,low,9,name.com,,,12/08/2026 21:57
 ab7ab713-62fb-492a-bb87-2d8c3a9781be,maxim.hamburg,available,69.98,73.98,high,low,5,namecheap,,,28/09/2026 23:52
 bbb332b2-3145-4ef8-b387-20846e99f72f,trippingly.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,15/09/2026 11:20
-400d127d-ba68-47aa-830b-cf64a3361af2,evolve.hamburg,available,59.99,,high,low,6,name.com,,,
-fc1be596-5828-47e6-8458-0158c8fcb427,gmt.hamburg,available,69.98,73.98,high,low,3,namecheap,,,28/09/2026 14:18
+fc1be596-5828-47e6-8458-0158c8fcb427,gmt.hamburg,available,69.98,73.98,medium,low,3,namecheap,,,28/09/2026 14:18
 56a2a629-36e9-447d-b026-4d1590763e75,arrives.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,20/09/2026 01:05
 c4ec314a-d8e1-45a7-bfe5-a3d1d6276838,third.hamburg,available,59.99,59.99,high,low,5,name.com,,,
 ab0ef096-b5ed-41fe-a0ba-a148ed4ba163,austere.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,22/09/2026 13:15
@@ -338,9 +361,10 @@ e896fa1b-32b5-4cc7-ae0b-9a128d1c4a5a,downs.hamburg,available,69.98,73.98,medium,
 7752078f-7c1a-48ea-821d-6b174a4465b5,breakthrough.hamburg,available,69.98,73.98,high,low,12,namecheap,,,28/09/2026 07:10
 01dbef50-f582-49a4-9da8-c5b38d75a6bb,blah.hamburg,available,69.98,73.98,high,low,4,namecheap,,,24/09/2026 03:41
 a8609cbb-b996-4c2c-b239-56a7964df616,hwy.hamburg,available,69.98,73.98,high,low,3,namecheap,,,29/09/2026 05:03
+3b5e30bf-1fe9-4c06-810b-e61976c17463,conferences.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,30/09/2026 07:38
 4c4af793-3fd0-4285-9067-55389f644a9a,calf.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 05:52
 a5c01c02-75be-4936-af49-3a74f4853ccc,enter.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 23:59
-21904629-0414-4103-80a3-0ec155a5198a,roommates.hamburg,available,69.98,73.98,high,low,9,namecheap,,,21/09/2026 02:59
+21904629-0414-4103-80a3-0ec155a5198a,roommates.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,21/09/2026 02:59
 0c1b3810-8778-42f4-8bbd-35ecb1ea3136,wreckage.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 08:20
 1326b42c-45fe-46f1-bf47-557d2482ca7c,verdun.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,22/09/2026 16:19
 56715467-351d-45af-9695-5923777f7f9a,drank.hamburg,available,69.98,73.98,high,low,5,namecheap,,,28/09/2026 08:20
@@ -351,19 +375,21 @@ e44be10e-2531-4a43-bb71-80398b89e3ee,salaried.hamburg,available,59.99,59.99,high
 e48d01da-8665-42b4-b4d3-0138dd5dc933,floss.hamburg,available,69.98,73.98,high,low,5,namecheap,,,24/09/2026 21:54
 7449ce80-4e51-4dbf-a090-2f2831d32d8f,voltaic.hamburg,available,59.99,59.99,medium,low,7,name.com,,,18/08/2026 19:42
 18efe9e6-0f6a-40a6-84f5-a0dd391eedf8,crushing.hamburg,available,59.99,59.99,high,low,8,name.com,,,13/08/2026 09:13
-6d3c50d0-5755-49cb-b792-2644a2212768,emile.hamburg,available,69.98,73.98,high,low,5,namecheap,,,27/09/2026 13:23
+6d3c50d0-5755-49cb-b792-2644a2212768,emile.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,27/09/2026 13:23
 54ceb2b2-3f2f-4aa9-b245-2dd5b16b3d95,moment.hamburg,available,69.98,73.98,high,low,6,namecheap,,,29/09/2026 22:41
 a3921cc1-37ac-4a2e-bbff-544a41305a1e,fans.hamburg,available,69.98,73.98,high,low,4,namecheap,,,25/09/2026 21:32
 701aa40e-bd34-4c6e-8745-b0999b0503a0,chargeable.hamburg,available,59.99,59.99,medium,low,10,name.com,,,12/08/2026 02:27
 c5726c2d-8718-448c-bb1b-fb388e15226e,northwards.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,03/09/2026 21:25
 14b8d348-f9ee-4cee-b031-669f0379db5b,currently.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,28/09/2026 14:29
 d52853d1-a4d4-44a1-a7fb-68d335353620,propelling.hamburg,available,69.98,73.98,high,low,10,namecheap,,,09/09/2026 03:30
+8e829fc5-dc29-40d5-a970-c4825c52e2bb,canis.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 08:55
 e2fd4c66-4ad8-4c19-baf9-f7f99ce35030,avoided.hamburg,available,69.98,73.98,low,low,7,namecheap,,,29/09/2026 05:05
 a713ac42-1b47-4ea9-99c9-21a8ddaf3438,deific.hamburg,available,59.99,59.99,medium,low,6,name.com,,,14/08/2026 00:13
 85f3fdb8-45e4-4362-b7a6-2da12442a2ec,hunchback.hamburg,available,59.99,59.99,medium,low,9,name.com,,,13/08/2026 07:49
 66da41c1-1d07-4202-9f4d-278cbad07567,cumulate.hamburg,available,59.99,59.99,high,low,8,name.com,,,12/08/2026 21:52
 e20e618f-0537-4d9b-a07f-1c9f59225bf7,francisco.hamburg,available,69.98,73.98,high,low,9,namecheap,,,25/09/2026 18:30
 1cf3c56b-089f-4ff3-941c-8313daa867c1,story.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,25/09/2026 22:53
+dcff4358-91ba-4490-9653-c44702bfed55,trot.hamburg,available,69.98,73.98,high,low,4,namecheap,,,01/10/2026 02:54
 212d455b-90f2-4c30-ae53-ecb759db12b0,allocator.hamburg,available,69.98,73.98,high,low,9,namecheap,,,18/09/2026 11:47
 541d8530-058d-4946-ae42-187f191ecdd4,hiring.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 08:27
 f8b95d6b-c7cc-44c5-8d6a-22244d9ba592,seeded.hamburg,available,69.98,73.98,high,low,6,namecheap,,,10/09/2026 01:43
@@ -385,16 +411,18 @@ d6b5799c-24ac-4067-bf72-cfd96f9fd609,mournful.hamburg,available,59.99,59.99,medi
 7771300f-76ce-45f7-bedb-828e3b209e28,mutual.hamburg,available,69.98,73.98,high,low,6,namecheap,,,25/09/2026 22:40
 9629e123-a79d-4865-8219-140cee7cbc8a,arachnida.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,19/09/2026 23:41
 662ef638-3a85-4025-86ef-b8bdb517c54d,electoral.hamburg,available,59.99,59.99,high,low,9,name.com,,,16/08/2026 02:37
+d05bdc35-de09-46e4-9854-e22cb24a6101,coursework.hamburg,available,69.98,73.98,high,low,10,namecheap,,,30/09/2026 16:49
 95616afd-87d5-43b6-89ef-6e698b281d62,bangles.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,20/09/2026 19:22
 6dc35c3b-4c90-45a3-916d-893246924921,involute.hamburg,available,59.99,59.99,high,low,8,name.com,,,22/08/2026 09:12
 d4378887-49f0-4a0e-b3a4-fc1af73202b6,continuity.hamburg,available,69.98,73.98,high,low,10,namecheap,,,24/09/2026 17:42
 25109df5-b33e-4270-83a0-5e5bd7f42f9d,bank.hamburg,resell,,,high,medium,4,,20/04/2016 14:43,20/04/2027 14:43,29/09/2026 01:00
-845db208-bb27-40a1-bf83-b04e4936c8a8,yield.hamburg,available,59.99,,high,low,5,name.com,,,
+845db208-bb27-40a1-bf83-b04e4936c8a8,yield.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 07:29
 a3da88cd-8f05-4540-825e-625adb657cac,nsc.hamburg,available,69.98,73.98,high,low,3,namecheap,,,29/09/2026 07:39
 b9c1d80b-0718-4333-8daf-80edd882cf4e,grow.hamburg,available,69.98,73.98,high,medium,4,namecheap,,,25/09/2026 18:10
 77796b96-48a0-45c1-87d0-3b0dc8869ae4,cubical.hamburg,available,59.99,59.99,medium,low,7,name.com,,,13/08/2026 09:51
 9b5ef1ef-5df0-400d-9eb2-defa14961a07,offence.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,04/09/2026 01:34
 d004bfe2-6270-4527-bfc2-0938815e9508,appeals.hamburg,available,69.98,73.98,low,low,7,namecheap,,,28/09/2026 23:39
+9877d9c3-04e7-475e-a4db-5d27a51f4777,barak.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 20:54
 a9c368b8-4e25-482a-87a1-559e34878844,livelong.hamburg,available,59.99,59.99,high,low,8,name.com,,,24/08/2026 07:57
 1839e0e6-1165-4226-9476-bb368376be7c,nsa.hamburg,available,69.98,73.98,high,low,3,namecheap,,,27/09/2026 04:50
 9b3bee61-2a04-496c-8fc1-50addb5096aa,hauled.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,30/09/2026 00:24
@@ -413,13 +441,13 @@ a73dac68-d5ce-4c5e-b077-52f34238faab,skipping.hamburg,available,69.98,73.98,high
 afa59f60-b45b-4946-ae01-6cf00b7557dc,balm.hamburg,available,69.98,73.98,high,low,4,namecheap,,,21/09/2026 23:35
 6559e970-b3a3-4a9d-a278-b8afb6c83560,biogenic.hamburg,available,59.99,59.99,high,low,8,name.com,,,10/08/2026 01:27
 a7c8bf59-064f-4e37-ab55-bba6729f1187,candidacy.hamburg,available,69.98,73.98,high,low,9,namecheap,,,29/09/2026 06:17
-d7e941d9-8dc6-4193-b611-1adb0daf20a4,whitefish.hamburg,available,59.99,,high,low,10,name.com,,,
+d7e941d9-8dc6-4193-b611-1adb0daf20a4,whitefish.hamburg,available,59.99,,medium,low,10,name.com,,,
 37c7c1f9-b467-4070-8e52-d89e9f037140,intrepidly.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,14/09/2026 10:53
 cabd606f-81b6-45b0-b80d-930b3447f1bf,inspiration.hamburg,available,59.99,,high,low,11,name.com,,,
 8bcab978-1282-4dba-8dbd-a629d322d53d,cleaned.hamburg,available,69.98,73.98,high,low,7,namecheap,,,27/09/2026 02:45
 278ea11d-7ff2-4e5c-b73a-3c0fb1bfc7cb,kara.hamburg,available,69.98,73.98,high,low,4,namecheap,,,27/09/2026 16:38
 f445caa6-ad99-441d-bb5d-a5c9649712a7,flames.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,27/09/2026 23:38
-1fc78cea-bc78-4ab2-8e78-fd207250e5bf,amuse.hamburg,available,59.99,,high,low,5,name.com,,,
+1fc78cea-bc78-4ab2-8e78-fd207250e5bf,amuse.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 15:02
 8f5d6d57-584f-4cd9-8e56-15b140ac10d5,chas.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,28/09/2026 21:45
 73932015-0ef2-42b8-81b0-48613ee8aec8,stewardess.hamburg,available,59.99,59.99,high,low,10,name.com,,,17/09/2026 22:26
 41809ea6-5b48-427d-b3c9-d3095b727208,bettering.hamburg,available,59.99,59.99,high,low,9,name.com,,,09/08/2026 18:11
@@ -434,6 +462,7 @@ a420d4e3-8f34-4316-af65-7e7c293d24f8,considers.hamburg,available,69.98,73.98,med
 9dd4fa32-1a09-4be4-9088-0f107499737c,allowed.hamburg,available,59.99,,high,low,7,name.com,,,
 ad3d5d8b-d3c6-43f4-aa50-e9d4d73b4b45,cruising.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 05:15
 8b811fd4-a3fb-49ea-a91c-131fb9adb6e8,climbing.hamburg,available,69.98,73.98,high,low,8,namecheap,,,24/09/2026 15:41
+a5b0d4c2-b5e8-465f-827a-24317ab6573f,donors.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,30/09/2026 06:50
 bfd0d416-2523-425c-9889-919d6942337b,builds.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,28/09/2026 17:56
 dd4b1112-1f35-4291-8302-83b3322d63c6,anodyne.hamburg,available,59.99,59.99,medium,low,7,name.com,,,
 06dc5e62-827e-4083-a0c4-2ef23933a3df,shu.hamburg,available,69.98,73.98,high,low,3,namecheap,,,27/09/2026 21:11
@@ -449,7 +478,7 @@ d1766c3f-6f65-4424-bdaa-2667fe5ccb3f,diesel.hamburg,available,69.98,73.98,high,l
 ab3c1492-12bc-405e-982f-e1c52ed64dff,lavishly.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,15/09/2026 11:03
 8f15df78-eafa-4db8-b35d-16ff458b7bb3,settlement.hamburg,available,69.98,73.98,high,low,10,namecheap,,,28/09/2026 01:43
 9e627115-e699-4746-8d04-61d04a6c4535,mango.hamburg,available,69.98,73.98,high,high,5,namecheap,,,29/09/2026 19:37
-53ffa513-2de8-4ecf-aea9-cbaec06b8af4,toe.hamburg,available,59.99,,medium,low,3,name.com,,,
+53ffa513-2de8-4ecf-aea9-cbaec06b8af4,toe.hamburg,available,69.98,73.98,medium,low,3,namecheap,,,30/09/2026 13:18
 836475cd-019b-40f9-95ee-681e0ced75c1,pull.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 16:48
 d2d33191-ffe7-4bc4-98f8-0f9fea2a53e4,striation.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,22/09/2026 01:19
 d1b23139-b4ed-4278-af1b-821f5c2a1317,north.hamburg,available,59.99,59.99,high,low,5,name.com,,,25/09/2026 23:09
@@ -463,9 +492,10 @@ d72d579a-080b-498c-9078-51cb4c9183f6,duty.hamburg,available,69.98,73.98,high,low
 1a43c366-90e6-4477-a78a-bcd98c0e2d03,nostrils.hamburg,available,59.99,,medium,low,8,name.com,,,
 9317969a-4c42-4340-a006-bceaf4955536,moresque.hamburg,available,59.99,59.99,high,low,8,name.com,,,25/08/2026 06:01
 9e27c50f-30dc-4fb8-a58c-ed1546139069,wires.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,28/09/2026 04:36
-1e254f50-4c1b-4a6f-a7bd-97093f6c80b7,choke.hamburg,available,69.98,73.98,high,low,5,namecheap,,,24/09/2026 14:43
+1e254f50-4c1b-4a6f-a7bd-97093f6c80b7,choke.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,24/09/2026 14:43
 9d14129e-bbeb-4e02-97e9-312c4bb6e8d1,robe.hamburg,available,69.98,73.98,high,low,4,namecheap,,,28/09/2026 06:41
-30290fe5-b846-4609-8599-8ee17c9e94d8,boned.hamburg,available,59.99,59.99,high,low,5,name.com,,,10/08/2026 18:34
+614896a5-7d47-4a00-91f8-4f8311428b94,chun.hamburg,available,69.98,73.98,high,low,4,namecheap,,,30/09/2026 23:29
+30290fe5-b846-4609-8599-8ee17c9e94d8,boned.hamburg,available,59.99,59.99,medium,low,5,name.com,,,10/08/2026 18:34
 c08be1ea-58e3-41b7-bafb-3c8eba2bbd8f,piscatory.hamburg,available,69.98,73.98,high,medium,9,namecheap,,,08/09/2026 19:59
 fd78af3c-c00e-4615-b35e-ac535e0d228a,deserted.hamburg,available,59.99,59.99,medium,low,8,name.com,,,
 f0b3d745-866d-4a08-8edd-1f2e8b8c1e63,timeworn.hamburg,available,59.99,59.99,medium,low,8,name.com,,,08/08/2026 11:14
@@ -489,10 +519,12 @@ a2af8d9d-9866-4365-b5cd-8bd660c407e1,drawings.hamburg,available,69.98,73.98,medi
 66d63e24-7f89-447d-b3bc-51e074b1e75f,oriental.hamburg,available,69.98,73.98,high,low,8,namecheap,,,04/09/2026 17:51
 a123d7eb-6079-44a2-99a1-1a851e1b4232,conduct.hamburg,available,69.98,73.98,high,low,7,namecheap,,,23/09/2026 03:13
 659c41e0-a341-4c19-a28a-c952cbdd40e3,freakish.hamburg,available,59.99,59.99,high,low,8,name.com,,,10/08/2026 09:56
+12586138-04c9-402c-bb25-eeaaedd0313b,bedfordshire.hamburg,available,69.98,73.98,high,low,12,namecheap,,,30/09/2026 12:54
 2c05ee2e-cc9d-42eb-9eb7-af694056944d,drought.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,29/09/2026 12:05
 e6922a79-6524-4754-8dce-ec604d1d1ba8,brisk.hamburg,available,59.99,59.99,high,low,5,name.com,,,11/08/2026 00:32
 ccfad0c3-7412-4acd-af38-7cd07a8ce315,nickelodeon.hamburg,available,59.99,,high,low,11,name.com,,,
 dc8f7be6-0d4c-45c9-bd14-908df775b5c9,opencast.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,04/09/2026 16:08
+de4fb1aa-3dca-4da8-b66c-1120206359ed,mainframe.hamburg,available,69.98,73.98,high,low,9,namecheap,,,01/10/2026 01:14
 ec4b111d-b2bb-43d5-9997-efb5914d80ec,adequate.hamburg,available,69.98,73.98,high,low,8,namecheap,,,21/09/2026 18:22
 58a80adb-eef9-40aa-b999-62b241c1543b,worse.hamburg,available,69.98,73.98,high,low,5,namecheap,,,28/09/2026 10:56
 ee0aff36-e6e5-481a-9b6c-5ddadebefeb8,refugee.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 20:17
@@ -502,7 +534,7 @@ f5b3d6f6-ab73-46c0-be4b-cf1d13669b7a,snakebird.hamburg,available,69.98,73.98,med
 4efbe999-0872-41d0-9596-e869c71c7c5b,alzheimers.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,18/09/2026 15:29
 224ee75e-9737-4c71-b0b5-95f53cf284e4,fenestral.hamburg,available,59.99,59.99,medium,low,9,name.com,,,18/08/2026 01:09
 360ade56-a363-4096-8676-629af0361c2e,unweaned.hamburg,available,69.98,73.98,low,low,8,namecheap,,,12/09/2026 22:29
-c5561045-25fc-4718-9c29-179a043b32eb,petitioner.hamburg,available,69.98,73.98,high,low,10,namecheap,,,11/09/2026 03:30
+c5561045-25fc-4718-9c29-179a043b32eb,petitioner.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,11/09/2026 03:30
 264ffbb1-ce04-40ac-b6bc-5021565eca53,rubble.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,28/09/2026 18:54
 549be4a3-37f9-4710-b67c-cf734314499a,pete.hamburg,available,59.99,,high,low,4,name.com,,,
 14fa03ae-cbfc-4556-b1c8-76364b275084,roundly.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,14/09/2026 00:45
@@ -513,22 +545,26 @@ b7797c03-d88f-4000-9191-3a3b45a12958,annona.hamburg,available,69.98,73.98,medium
 e2220d1c-12db-4bf1-b32c-fe23347d784e,cylinder.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 00:34
 2fdb4e09-3acf-4b48-b951-f4042c00e4b9,beret.hamburg,available,69.98,73.98,high,low,5,namecheap,,,23/09/2026 09:15
 c91ade8f-3dfc-40b1-9504-d88b4ff4151b,punter.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,29/09/2026 02:17
+e97788f1-1405-461b-be49-c777b31fde73,thugs.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,30/09/2026 15:25
 597f2761-f3c5-44d9-8f6a-40d0c08ad018,scowling.hamburg,available,59.99,59.99,medium,low,8,name.com,,,09/08/2026 08:33
-eaf967c5-095f-4e20-b478-af75deb625f6,hamm.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 21:55
+eaf967c5-095f-4e20-b478-af75deb625f6,hamm.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,29/09/2026 21:55
 70d94e6f-9425-40ef-8e68-796c5bac2a70,praying.hamburg,available,69.98,73.98,high,low,7,namecheap,,,27/09/2026 06:47
 5ac90620-2132-4ab9-9842-0e4b4e3d62ed,alienated.hamburg,available,59.99,59.99,medium,low,9,name.com,,,
 2b829e2c-bb82-430f-a707-7ec11d881c69,antic.hamburg,available,59.99,59.99,high,low,5,name.com,,,
-4729465c-7dc9-410a-959f-44a0825fc0a8,formalized.hamburg,available,59.99,59.99,high,low,10,name.com,,,18/08/2026 12:03
+4729465c-7dc9-410a-959f-44a0825fc0a8,formalized.hamburg,available,59.99,59.99,medium,low,10,name.com,,,18/08/2026 12:03
 2eb2430b-91a5-4a0d-bf5b-d06e97acd265,dishwasher.hamburg,available,69.98,73.98,high,low,10,namecheap,,,29/09/2026 15:53
 07dfaf04-9d77-42b3-b7ab-1734ffbbbb9b,unbearable.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,25/09/2026 10:28
 917d1f65-b7cc-4725-872a-607c0a857592,statehood.hamburg,available,59.99,,high,low,9,name.com,,,
 eb09931d-fc24-4149-a6aa-dc5efc06e9ca,kipling.hamburg,available,69.98,73.98,high,medium,7,namecheap,,,29/09/2026 01:27
-a5aa1d28-011b-4581-b631-b8ecda24479a,feldman.hamburg,available,69.98,73.98,high,low,7,namecheap,,,27/09/2026 20:17
+a5aa1d28-011b-4581-b631-b8ecda24479a,feldman.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,27/09/2026 20:17
 ddcc277d-1fa5-4173-9fe9-ac5a1482577f,urinate.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,13/09/2026 09:41
-b7d78419-8bc1-4a5d-864a-666959997ec5,password.hamburg,available,69.98,73.98,high,low,8,namecheap,,,28/09/2026 04:22
+b7d78419-8bc1-4a5d-864a-666959997ec5,password.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,28/09/2026 04:22
 8fa95284-1e68-4cee-9851-88e4216c4866,masters.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 17:44
 2751443b-f065-4b73-af9b-a3be0d7f3af0,pci.hamburg,available,69.98,73.98,high,low,3,namecheap,,,28/09/2026 11:26
-c0d0d71f-4801-45ff-8636-8b4364edf402,antioch.hamburg,available,69.98,73.98,high,low,7,namecheap,,,19/09/2026 12:29
+c0d0d71f-4801-45ff-8636-8b4364edf402,antioch.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,19/09/2026 12:29
+7da7bbbc-363c-4fe1-8c49-7c8a6fe88ec7,sheboygan.hamburg,available,69.98,73.98,high,low,9,namecheap,,,30/09/2026 05:39
+72766f4e-9634-458b-aac2-345762638e33,leed.hamburg,available,69.98,73.98,high,low,4,namecheap,,,30/09/2026 20:18
+eb35d0fc-9fb3-41e1-9f9a-e8f97b6f8868,neva.hamburg,available,69.98,73.98,high,low,4,namecheap,,,30/09/2026 18:10
 44b500b5-b4f8-4db3-81f5-18bb38777988,swanky.hamburg,available,69.98,73.98,high,low,6,namecheap,,,11/09/2026 05:15
 618268cf-6a96-48a5-a1b7-668f4effccce,uruguayan.hamburg,available,69.98,73.98,high,low,9,namecheap,,,12/09/2026 23:55
 927aa47d-9324-4f3e-9053-c3eab8010998,british.hamburg,available,69.98,73.98,high,low,7,namecheap,,,23/09/2026 09:38
@@ -539,28 +575,31 @@ b0f000bd-33ce-4bd7-9cc7-d6b88246593f,shambolic.hamburg,available,59.99,59.99,med
 4d493a35-e069-41d3-b02f-ee344ff8fe41,digestive.hamburg,available,59.99,59.99,high,low,9,name.com,,,24/08/2026 15:24
 e3bfb482-286e-4cb4-940a-0332b403e484,honestly.hamburg,available,59.99,59.99,high,low,8,name.com,,,
 86a6a37b-4505-4f31-a50f-a13fb20c304b,aniseed.hamburg,available,69.98,73.98,high,low,7,namecheap,,,19/09/2026 09:27
-f90ed8a4-c8f8-46cd-8006-3f0f49f1295c,elmer.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 03:21
-451d2935-afa0-4429-a78c-b79b9efa1054,analytics.hamburg,available,69.98,73.98,high,low,9,namecheap,,,28/09/2026 03:59
+f90ed8a4-c8f8-46cd-8006-3f0f49f1295c,elmer.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,29/09/2026 03:21
+451d2935-afa0-4429-a78c-b79b9efa1054,analytics.hamburg,available,69.98,73.98,high,low,9,namecheap,,,30/09/2026 16:06
 01c1bc81-53e4-49ed-b48d-b29d29567b30,platelike.hamburg,available,69.98,73.98,high,low,9,namecheap,,,08/09/2026 20:17
 1d932c59-3105-4d65-8f17-f3cd4d0cafc0,drains.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,29/09/2026 17:12
 110340c0-97e5-4078-91f4-a1e42dade6b6,proxy.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,30/09/2026 02:30
 ad7d8809-9d75-4548-a89b-9481272a6540,georgian.hamburg,available,59.99,59.99,high,low,8,name.com,,,18/08/2026 22:37
-aaee9161-b86d-43af-a899-6e2a7e8aba98,remarkably.hamburg,available,69.98,73.98,high,low,10,namecheap,,,15/09/2026 23:06
-8fc5d320-d5ad-40e1-9645-29b6a9031587,indistinct.hamburg,available,59.99,59.99,high,low,10,name.com,,,22/08/2026 03:14
+3e1c78f2-5516-425a-9f45-896a5cad90e4,exiled.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,30/09/2026 15:40
+aaee9161-b86d-43af-a899-6e2a7e8aba98,remarkably.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,15/09/2026 23:06
+8fc5d320-d5ad-40e1-9645-29b6a9031587,indistinct.hamburg,available,59.99,59.99,medium,low,10,name.com,,,22/08/2026 03:14
 994da313-03b1-4cfe-893e-7804de6511f9,urethral.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,12/09/2026 23:35
 fe8c28d3-e2d9-4e5d-aa5d-95b7819669a2,list.hamburg,available,69.98,73.98,high,low,4,namecheap,,,25/09/2026 13:18
 c9995a74-75b6-45dd-9c89-8cdf17c7c54f,rewards.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 08:14
 82f55719-2fc3-4b9e-b73d-5d1fcbba80bb,ombu.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,23/09/2026 05:53
 f62c12e7-6400-4168-a2d8-58262fe9a040,ramirez.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,28/09/2026 08:04
 915de4be-4e25-4e14-a746-6efa97aea311,matisse.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 22:40
+920f818c-ef43-4cda-8bd5-c48ca2fc12f6,slumber.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 10:20
 2d8ee431-bacf-426a-88b1-a3a93ff88f10,penetrating.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,29/09/2026 14:35
-824a6ad8-e3f0-41c6-9833-717edba17b38,itchy.hamburg,available,59.99,59.99,high,low,5,name.com,,,05/08/2026 20:43
+824a6ad8-e3f0-41c6-9833-717edba17b38,itchy.hamburg,available,59.99,59.99,medium,low,5,name.com,,,05/08/2026 20:43
 d543d894-91fa-48ca-a455-08261ed6b8fc,fog.hamburg,available,69.98,73.98,high,low,3,namecheap,,,25/09/2026 23:40
 20189577-e019-4fe4-b9a2-c555458ca999,harper.hamburg,available,69.98,73.98,high,low,6,namecheap,,,25/09/2026 06:58
+3b201c54-c061-4647-b164-28a309859b6d,conyers.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 14:02
 c9efa5ee-32dc-48c9-89c5-3c80fb0bfb54,nuclear.hamburg,available,69.98,73.98,high,low,7,namecheap,,,25/09/2026 23:22
 255560b1-fc8c-484a-a377-2871bf61559a,collapsing.hamburg,available,69.98,73.98,low,low,10,namecheap,,,20/09/2026 17:39
 30cebfac-757d-49dc-88c2-19554301582b,sanious.hamburg,available,59.99,59.99,medium,low,7,name.com,,,21/08/2026 17:49
-df204e6c-7b99-41f3-a65d-3c48c8d025f9,dispute.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 13:42
+df204e6c-7b99-41f3-a65d-3c48c8d025f9,dispute.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,28/09/2026 13:42
 495770c1-3c2d-4cce-9a95-a8819f4b470e,pulled.hamburg,available,59.99,,high,low,6,name.com,,,
 17e629bc-6eab-487d-a260-e163b2b8d358,tantric.hamburg,available,69.98,73.98,high,low,7,namecheap,,,11/09/2026 08:05
 01bf4a75-a0dd-4368-b0cf-727a6d3eebff,shy.hamburg,available,59.99,59.99,high,low,3,name.com,,,27/09/2026 21:35
@@ -579,25 +618,27 @@ c2077fc7-024d-43a3-a177-e9d027d6da0a,bighearted.hamburg,available,59.99,59.99,hi
 2c1b5068-2f08-4a01-a599-f4243e17684f,indoors.hamburg,available,59.99,59.99,high,low,7,name.com,,,22/08/2026 07:03
 2cce1715-e618-4d1c-8c16-d5ffe2fe95d1,amplifying.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,17/09/2026 20:45
 c3dfb004-8a8d-4989-8129-6b4a4d6bb81f,deborah.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,28/09/2026 12:59
-0bc0df32-63dd-4943-be98-7d364e21335d,corbin.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 07:42
+0bc0df32-63dd-4943-be98-7d364e21335d,corbin.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,28/09/2026 07:42
 ea622a0d-1797-4655-8a6b-a4c1f33912d8,ambled.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,20/09/2026 05:58
 22325561-67b2-487c-9c74-98b9c61b68c7,fear.hamburg,available,69.98,73.98,high,low,4,namecheap,,,24/09/2026 12:06
 706fb8f3-05e9-4e1f-8974-baa48fdb9227,uphill.hamburg,available,59.99,59.99,medium,low,6,name.com,,,
-751e6bae-c38a-4904-b356-edad3c28ddd6,cuddles.hamburg,available,69.98,73.98,high,low,7,namecheap,,,21/09/2026 08:38
+751e6bae-c38a-4904-b356-edad3c28ddd6,cuddles.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,21/09/2026 08:38
 b61db572-c296-4388-a71d-c4bb2dff9ac9,hoarding.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,23/09/2026 16:09
 f7c37718-c4d2-4fba-9155-48a23b35a407,fractures.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,29/09/2026 11:30
 6021ebdd-c067-4e47-8a3c-81e24d0c6bf6,bell.hamburg,available,69.98,73.98,high,low,4,namecheap,,,28/09/2026 20:18
 f8c33a39-01f7-41c4-9665-03451eac2149,charleston.hamburg,available,69.98,73.98,high,low,10,namecheap,,,29/09/2026 07:20
-f4a07a33-2421-4d92-a722-3fb4d2c0f293,nimbly.hamburg,available,69.98,73.98,high,low,6,namecheap,,,13/09/2026 18:18
+f4a07a33-2421-4d92-a722-3fb4d2c0f293,nimbly.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,13/09/2026 18:18
 6b78dacd-456a-4937-8a7a-dc42e7ab76c1,craven.hamburg,available,59.99,59.99,medium,low,6,name.com,,,13/08/2026 05:27
 56e6964d-8347-40ae-be1f-02b21d5ad1ee,tasteless.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,11/09/2026 09:02
-b8e347df-f853-45ad-98b7-226d84919b72,modesty.hamburg,available,59.99,,high,low,7,name.com,,,
+b8e347df-f853-45ad-98b7-226d84919b72,modesty.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 04:51
+45061b0f-15d3-4e31-ac38-dac8b72d03a7,jimi.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,30/09/2026 05:10
 bbb08ed5-92bd-497c-95d3-83428f20001b,anouilh.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,19/09/2026 11:52
 e861fe6a-44dd-476a-8aad-a466336388ea,velvetleaf.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,16/09/2026 19:24
 5467240f-ed7d-4651-9c33-0a696504380e,unyielding.hamburg,available,59.99,59.99,high,low,10,name.com,,,14/08/2026 15:01
-36e882c1-9f07-43d2-aba0-ff857d09f79b,grayson.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 00:47
+36e882c1-9f07-43d2-aba0-ff857d09f79b,grayson.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,28/09/2026 00:47
 d8e596d2-7558-43c5-adfd-9917f6c9f8d7,snitcher.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,19/09/2026 14:14
-2d39c179-fc2b-448c-aaec-3d552d9ee404,enrich.hamburg,available,59.99,,high,low,6,name.com,,,
+2d39c179-fc2b-448c-aaec-3d552d9ee404,enrich.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 19:11
+262e388a-f339-4720-9bf8-2ccabfe5625b,cooley.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,30/09/2026 20:21
 f8cc2458-8d8c-44a9-95d7-122e1ee0148a,sprucely.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,15/09/2026 15:17
 927d5c3f-5c84-4ed6-aaea-d8b2f19229ed,backing.hamburg,available,69.98,73.98,high,low,7,namecheap,,,21/09/2026 15:39
 5129e9c5-71a3-4191-acef-bc3788472852,striker.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 08:09
@@ -613,7 +654,8 @@ adcf642a-0411-43bc-9b50-3ae8192ada11,company.hamburg,available,69.98,73.98,high,
 75e57f2c-d4d4-4426-be6c-ba11465c6b42,fellowships.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,21/09/2026 08:52
 64dbe421-e976-4926-86ae-5cb58597c7b6,fogged.hamburg,available,59.99,59.99,medium,low,6,name.com,,,18/08/2026 09:51
 81935477-746d-4b7a-80d3-39c96a2a4e3b,warner.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 05:27
-5b70a1c5-03d8-4e91-a542-4e845876106f,alger.hamburg,available,69.98,73.98,high,low,5,namecheap,,,18/09/2026 06:56
+4b5c1006-f598-464f-8938-72fd2be58045,arches.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,30/09/2026 05:05
+5b70a1c5-03d8-4e91-a542-4e845876106f,alger.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,18/09/2026 06:56
 60a99c1c-839e-4284-9a3d-28426e93a13b,hospitals.hamburg,available,69.98,73.98,high,low,9,namecheap,,,20/09/2026 04:37
 64a0f33a-fd52-4de4-a49c-04521f04faa0,reformist.hamburg,available,69.98,73.98,high,medium,9,namecheap,,,09/09/2026 12:42
 5bbc4291-eadc-493f-ac34-60c80068e9a7,mogadishu.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,24/09/2026 12:23
@@ -631,6 +673,8 @@ c4eb63f5-75b8-4f98-ac55-bd23568ebe48,syndicate.hamburg,available,69.98,73.98,hig
 695b31f6-1729-4974-bb01-f05c85cd4996,physicians.hamburg,available,69.98,73.98,high,low,10,namecheap,,,30/09/2026 00:16
 a80a80e5-edce-453c-9f13-c749efb39d19,targeting.hamburg,available,69.98,73.98,high,low,9,namecheap,,,29/09/2026 03:22
 272fc7da-d92a-4ad8-a5df-2b2bf8cd4346,enhanced.hamburg,available,59.99,59.99,high,low,8,name.com,,,17/08/2026 08:25
+f742b12c-d457-4859-b42d-267e5a04673e,bologna.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 16:29
+da5a8f76-ac4b-4f1f-b8a0-183f2a4a6eab,fined.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,30/09/2026 15:19
 22d9eb10-7223-47f6-bc1a-23af2450fac7,manhattan.hamburg,available,69.98,73.98,high,low,9,namecheap,,,25/09/2026 23:31
 58f94885-9426-414f-97e5-9341a68e147e,colman.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,29/09/2026 04:11
 45acefc6-2df9-4124-ae51-6592e527ddf5,behaviour.hamburg,available,69.98,73.98,high,low,9,namecheap,,,23/09/2026 03:08
@@ -638,22 +682,24 @@ a80a80e5-edce-453c-9f13-c749efb39d19,targeting.hamburg,available,69.98,73.98,hig
 3489a117-de6c-4ba3-b994-c70cf0da607c,sourish.hamburg,available,59.99,59.99,medium,low,7,name.com,,,22/08/2026 23:29
 8fd552a3-9ece-4080-8bef-c5a2e67a164c,antiquark.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,19/09/2026 15:02
 f825711e-c84f-411f-9836-161e4292b7e5,boethius.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,19/09/2026 08:26
-4341a386-7a4e-43ff-87bb-22449c88c68b,pay.hamburg,available,59.99,,high,medium,3,name.com,,,
+4341a386-7a4e-43ff-87bb-22449c88c68b,pay.hamburg,available,69.98,73.98,high,medium,3,namecheap,,,30/09/2026 06:27
 dcc08e9d-ec06-40bb-baf7-35258462fc06,daniel.hamburg,available,69.98,73.98,high,medium,6,namecheap,,,29/09/2026 03:26
 8efc4788-ee99-4123-b69a-f9fabe488d11,areca.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,20/09/2026 03:25
 2aaac2be-99f4-4441-8c54-8adfbb47718f,okeh.hamburg,available,69.98,73.98,high,low,4,namecheap,,,03/09/2026 23:21
 7b6ace5e-7b65-4080-b7e0-8fb88f4e6d94,barbaric.hamburg,available,59.99,59.99,medium,low,8,name.com,,,08/08/2026 15:31
 8a60f912-8732-4fd6-b169-42af24f9ce54,molotov.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 13:28
 c7e83be3-4a5d-4da3-9ef3-c39cd7d63fde,wobbly.hamburg,available,69.98,73.98,high,low,6,namecheap,,,27/09/2026 14:59
+48be38a1-cffa-4229-b63c-f6efde871efc,martinsville.hamburg,available,69.98,73.98,high,low,12,namecheap,,,30/09/2026 05:38
 c9357f3e-adad-4e4e-a1ad-e351c8630e44,scoop.hamburg,available,69.98,73.98,high,low,5,namecheap,,,19/09/2026 16:31
 38437cd4-dc22-4abc-bdbd-4d2b8b6c4c05,stir.hamburg,available,69.98,73.98,high,low,4,namecheap,,,17/09/2026 09:23
-4a9857ad-ed51-4f7c-9560-6ecface1c24f,sequester.hamburg,available,59.99,59.99,high,low,9,name.com,,,12/08/2026 21:06
+4a9857ad-ed51-4f7c-9560-6ecface1c24f,sequester.hamburg,available,59.99,59.99,medium,low,9,name.com,,,12/08/2026 21:06
 7d098163-0945-4a61-8fac-6909c83a933e,carnival.hamburg,available,69.98,73.98,high,low,8,namecheap,,,24/09/2026 16:10
 1a8f5541-3d95-4161-bd57-4e58416832cf,guatemalan.hamburg,available,59.99,59.99,high,low,10,name.com,,,20/08/2026 20:45
 575971a3-e8ad-4296-99b8-a8c98a81234d,muttering.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,03/09/2026 11:14
 51948600-3a92-44e1-9798-09dbd35d053a,bushes.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,28/09/2026 23:23
 c22acd37-838c-4591-ab90-f121d2902508,frisky.hamburg,available,59.99,59.99,high,low,6,name.com,,,18/08/2026 16:02
 39e0c65b-5327-4830-8f21-0963b0d871c4,perjury.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,22/09/2026 21:18
+5fbcec7f-08b9-4fd8-a554-c8197d1cbce2,determinant.hamburg,available,69.98,73.98,high,low,11,namecheap,,,30/09/2026 19:21
 8da95156-5c35-4fc0-9b19-0185a7f0100b,taken.hamburg,available,69.98,73.98,high,low,5,namecheap,,,25/09/2026 10:20
 27f7e197-0e59-4722-86f0-1c489ae5aeb2,altair.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,18/09/2026 14:31
 9faac189-a3e3-49a4-a881-77b84506fbb7,site.hamburg,available,69.98,73.98,high,medium,4,namecheap,,,25/09/2026 23:13
@@ -675,7 +721,7 @@ e60b5a50-7e96-4dc4-affc-319cbc6cb1b5,robed.hamburg,available,59.99,59.99,medium,
 72f400e6-f5fb-42b8-90b1-322184fb4f50,haunt.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 07:08
 dab0542f-6eb7-40f8-a76f-070ff99df976,arere.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,20/09/2026 03:56
 ae5b851d-1914-4720-8214-d049410419a2,our.hamburg,available,59.99,,high,medium,3,name.com,,,
-92768ca2-273f-437f-abaf-867cc631c43d,cubitus.hamburg,available,59.99,59.99,high,low,7,name.com,,,20/09/2026 11:25
+92768ca2-273f-437f-abaf-867cc631c43d,cubitus.hamburg,available,59.99,59.99,medium,low,7,name.com,,,20/09/2026 11:25
 6d63cf83-9e30-4fe6-bf86-7ee26d362a36,levine.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,25/09/2026 16:14
 aa1fa448-b09f-4a7c-8685-6d2f042e45b0,establishment.hamburg,available,59.99,,high,low,13,name.com,,,
 752e7764-7c0f-4d47-9916-793d387c6605,hallux.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,23/09/2026 14:56
@@ -688,7 +734,10 @@ c9bc5c4a-e0fe-41ac-9a4e-f89bf7e66fda,notifies.hamburg,available,69.98,73.98,medi
 ee54cfa5-e26b-4862-9bda-fd84db15b415,contributed.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,29/09/2026 17:13
 e20910ce-dec2-4d56-bb1a-cabe50074d04,gomad.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,20/09/2026 00:44
 23e4f369-5ee0-4f87-87c7-07cca02b42ab,braddock.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 15:49
+4c8612f0-8e09-4e02-8090-bac9aceece9a,horus.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 17:39
+753d68c5-5ce8-4e9a-bce5-15ecbbef02d8,kyrgyz.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 12:53
 91bef290-8452-49ce-aa7f-b8d29aea58ae,plant.hamburg,available,69.98,73.98,high,low,5,namecheap,,,25/09/2026 07:48
+062cc59d-1d63-474f-b357-87a0564939b2,kinshasa.hamburg,available,69.98,73.98,high,low,8,namecheap,,,01/10/2026 02:48
 5fbc4d52-0c53-45c1-81a6-f5ffecbb90a1,camo.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 06:06
 1db829d9-0964-4c9f-a269-3a1b955ff9c5,obituary.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 13:33
 9156d730-484b-40df-bce4-e88b7ef58ec1,stuyvesant.hamburg,available,69.98,73.98,high,low,10,namecheap,,,29/09/2026 19:58
@@ -702,18 +751,19 @@ fba797cf-e4c1-48b8-91f1-b9ed5654f5af,montenegrin.hamburg,available,69.98,73.98,h
 e9fd6946-bb6e-44b9-8f61-f70625b5a65b,pleb.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,08/09/2026 21:04
 9e423f8e-8150-4c2a-96c6-b1f21287b444,derisory.hamburg,available,59.99,59.99,medium,low,8,name.com,,,14/08/2026 02:56
 751dfe8b-7b62-42f6-a320-d15aa6060e24,convict.hamburg,available,69.98,73.98,high,low,7,namecheap,,,24/09/2026 17:58
+bb604967-c29c-435f-8b26-ae8cf39513f9,rattlesnake.hamburg,available,69.98,73.98,high,low,11,namecheap,,,30/09/2026 03:33
 f751abb8-fdf1-4d55-afbd-f5a7f47c6078,katherine.hamburg,available,69.98,73.98,high,low,9,namecheap,,,28/09/2026 03:49
 f7218598-1738-4287-97a4-5c07fe386f9d,bore.hamburg,available,69.98,73.98,high,low,4,namecheap,,,24/09/2026 12:50
 ac80b973-975d-41bc-91d3-b514892f43cb,ranch.hamburg,available,69.98,73.98,high,low,5,namecheap,,,25/09/2026 22:09
 54522e18-9bfb-4ac3-ad37-dcdfff96f73e,pause.hamburg,available,69.98,73.98,high,low,5,namecheap,,,28/09/2026 06:34
 6d6f2fbc-8557-4af5-8064-e97b15ef9bb6,crawler.hamburg,available,69.98,73.98,high,low,7,namecheap,,,19/09/2026 06:39
 560303e0-1bde-42e1-8839-53351d8fe06e,olefin.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,18/09/2026 08:30
-998984b1-de50-4000-ab8f-6cea81777517,lads.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 11:04
+998984b1-de50-4000-ab8f-6cea81777517,lads.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,29/09/2026 11:04
 4d0f961d-2343-4841-85de-f0d7d4f923c1,accepts.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,29/09/2026 11:07
-c9a67422-1e8f-4c6a-ae8d-2d2aa29b163c,kursk.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 02:07
-0715ae83-68fb-4ddd-9b17-9d944aa637e7,powdered.hamburg,available,69.98,73.98,high,low,8,namecheap,,,19/09/2026 15:51
+c9a67422-1e8f-4c6a-ae8d-2d2aa29b163c,kursk.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,30/09/2026 02:07
+0715ae83-68fb-4ddd-9b17-9d944aa637e7,powdered.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,19/09/2026 15:51
 4d976840-e14a-4f35-8566-d5481d99dbd8,amatory.hamburg,available,59.99,59.99,medium,low,7,name.com,,,
-8fcf1c84-00bd-4b6e-98af-49642f52bd72,mining.hamburg,available,59.99,,high,low,6,name.com,,,
+8fcf1c84-00bd-4b6e-98af-49642f52bd72,mining.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 04:33
 d9af061c-1633-494e-818b-2ff37468c4c0,loverly.hamburg,available,59.99,59.99,medium,low,7,name.com,,,24/08/2026 10:16
 8ac682b6-bb00-4f5f-9b63-f36d17a7ea04,supplicant.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,11/09/2026 03:28
 0450ef43-ab39-43c7-8d6c-b751a0c3656e,vermicular.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,13/09/2026 02:27
@@ -741,13 +791,14 @@ d3dbb1b4-7033-46e3-bf6b-67b5268bd6bb,assigned.hamburg,available,59.99,59.99,medi
 8dcbddfb-7977-40d0-a3e6-4dd7681530e1,fatally.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,14/09/2026 17:51
 da700975-4661-4b17-841e-b52f273d645b,spinal.hamburg,available,69.98,73.98,high,medium,6,namecheap,,,10/09/2026 15:38
 17be709a-7177-4cf2-a42a-ee6047ce057f,pendleton.hamburg,available,69.98,73.98,high,medium,9,namecheap,,,27/09/2026 08:11
-9d793fd0-23d7-43a8-8d71-019907fef177,contempt.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 11:21
+9d793fd0-23d7-43a8-8d71-019907fef177,contempt.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 11:21
 8cd3bd2e-7a19-4051-9bdc-330f88d5b9f2,rile.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,29/09/2026 14:40
 d4b2c67d-36b4-410f-bafa-897151772721,twisting.hamburg,available,69.98,73.98,high,low,8,namecheap,,,11/09/2026 21:52
 b9a17ea9-0f3c-4b09-a861-5bf82475de90,flows.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,28/09/2026 22:43
 6226ad06-3ed2-4714-b74e-efc9c70b94a7,liquefied.hamburg,available,59.99,59.99,medium,low,9,name.com,,,23/08/2026 22:01
 cea19809-8fbc-4566-9ddc-f0d621b7f81b,zach.hamburg,available,69.98,73.98,high,medium,4,namecheap,,,28/09/2026 04:11
 96493853-06f3-42a8-b448-a0f5573656f9,naacp.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,25/09/2026 13:20
+4fcab408-cb05-45d6-a020-afad28a298d7,subconscious.hamburg,available,69.98,73.98,high,low,12,namecheap,,,30/09/2026 03:47
 0ab6a47b-70be-4c06-8340-6235041393ad,doubled.hamburg,available,59.99,59.99,high,low,7,name.com,,,14/08/2026 16:55
 bfa506fe-a60f-40b5-ae67-b488561f92a5,tuba.hamburg,available,69.98,73.98,high,low,4,namecheap,,,22/09/2026 11:52
 7811d419-f6dd-481b-a3ef-2b803392cb0b,lgbtq.hamburg,available,59.99,,high,low,5,name.com,,,
@@ -761,8 +812,9 @@ a9794459-9210-4a24-bab4-265e43c93102,abbot.hamburg,available,69.98,73.98,medium,
 82e42ddd-466d-4c88-b871-bee125389f01,tobin.hamburg,available,69.98,73.98,high,low,5,namecheap,,,28/09/2026 06:04
 a6fc198d-5ee3-4b93-815f-bb6ce1382551,calamus.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,17/09/2026 02:27
 b6ee251a-a6fb-4833-9268-55f180499119,invention.hamburg,available,69.98,73.98,high,low,9,namecheap,,,28/09/2026 02:09
+1124913b-b460-4bca-88c7-625ef0f6adec,interviewer.hamburg,available,69.98,73.98,high,low,11,namecheap,,,30/09/2026 19:57
 cc4987b9-eefa-4559-bc1f-81a229df67ce,conspicuous.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,29/09/2026 03:02
-631022cc-5691-482c-8e36-4b450991a35b,effort.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 05:04
+631022cc-5691-482c-8e36-4b450991a35b,effort.hamburg,available,69.98,73.98,high,low,6,namecheap,,,01/10/2026 03:08
 863fba1d-d877-419f-8ac6-96bc6f82eba1,scouts.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 04:05
 bad69fa0-9b9d-4454-9102-3894490eae9e,poinciana.hamburg,available,69.98,73.98,high,low,9,namecheap,,,23/09/2026 20:09
 e1715d1c-786f-4e59-a5e9-447cd66aab90,artiste.hamburg,available,69.98,73.98,high,low,7,namecheap,,,20/09/2026 11:55
@@ -773,8 +825,12 @@ e45d53d7-ed82-44d0-929e-c53cbc5e3d46,anaemia.hamburg,available,69.98,73.98,mediu
 aead26c2-fb9c-4cc1-9422-feb78001529d,perrin.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,29/09/2026 04:24
 cc4527dc-a5d6-466f-9492-c75983349848,transported.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,16/09/2026 07:05
 9d5aa116-49e0-488c-a4ec-bda9d41840a2,undressed.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,12/09/2026 00:51
+8a732e7f-9790-4e8b-b677-86eabf23164b,guitarist.hamburg,available,69.98,73.98,high,low,9,namecheap,,,01/10/2026 02:21
+67c22679-0f13-4c02-8731-e50945956815,pinky.hamburg,available,69.98,73.98,high,low,5,namecheap,,,30/09/2026 10:27
 86391ddc-4fbb-4248-a539-cc223db246d8,obsessed.hamburg,available,59.99,59.99,medium,low,8,name.com,,,21/08/2026 01:32
+5a7b7751-2814-4665-8c09-6fd8363a1291,quadrilateral.hamburg,available,69.98,73.98,medium,low,13,namecheap,,,30/09/2026 19:15
 01f684b2-1b7d-4981-abd7-215c1e0eab32,taxes.hamburg,available,59.99,,medium,low,5,name.com,,,
+b91bb01d-8d30-46d9-98ed-a31f17d19474,shoreline.hamburg,available,69.98,73.98,high,low,9,namecheap,,,30/09/2026 11:01
 49b84003-e978-4ec4-853c-78a123783278,dancers.hamburg,available,69.98,73.98,high,low,7,namecheap,,,20/09/2026 05:50
 a2b19765-7691-4aaa-a88a-d61004940d87,miscellany.hamburg,available,59.99,59.99,high,low,10,name.com,,,25/08/2026 08:20
 6b236179-96c6-4189-b881-89a3dca9c237,bellingham.hamburg,available,69.98,73.98,high,low,10,namecheap,,,23/09/2026 06:12
@@ -795,15 +851,17 @@ daee6ad3-003f-4d12-a871-cd9d15660991,fairy.hamburg,available,69.98,73.98,high,lo
 4949b709-9c67-47d7-8a8b-7acc4bd025f3,bonkers.hamburg,available,59.99,59.99,medium,low,7,name.com,,,06/08/2026 20:40
 0f5e2380-b317-4b40-95fa-96b9f9d326b0,temerity.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,21/09/2026 02:48
 0fbeba05-9e98-4c24-befa-d0c1827238b0,typically.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,28/09/2026 17:10
-aaa27010-5001-4b43-b64b-46efcd488269,sigmund.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 11:40
-a8c893c3-9c37-474a-864c-5d2f5d16e610,happiest.hamburg,available,69.98,73.98,high,low,8,namecheap,,,18/09/2026 04:16
+545602bf-1e0f-4d9b-bfcb-3776f4786962,mervyn.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,30/09/2026 20:52
+aaa27010-5001-4b43-b64b-46efcd488269,sigmund.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,28/09/2026 11:40
+a8c893c3-9c37-474a-864c-5d2f5d16e610,happiest.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,18/09/2026 04:16
 9feea94b-d660-4b6f-9585-8995d06d66b2,scare.hamburg,available,69.98,73.98,high,low,5,namecheap,,,17/09/2026 14:51
 4d142f3a-ad65-4db5-a20a-454791c16536,beanbag.hamburg,available,69.98,73.98,high,low,7,namecheap,,,22/09/2026 20:20
 3ef54505-c556-45ff-9850-fcc3c033932e,overgreedy.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,04/09/2026 20:38
 c8cc8ccd-bbba-4c4b-a440-3db03d835cda,concretely.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,14/09/2026 08:12
 cde5c8b9-eedb-44fd-8802-728fdc19631c,irenic.hamburg,available,59.99,59.99,medium,low,6,name.com,,,22/08/2026 09:48
 5103051b-bd70-4821-ba2a-ea8d4e2a72b1,speeches.hamburg,available,69.98,73.98,low,low,8,namecheap,,,28/09/2026 08:40
-4eec49df-071e-4658-8bd2-e21632739383,talismanic.hamburg,available,69.98,73.98,high,low,10,namecheap,,,11/09/2026 07:30
+4eec49df-071e-4658-8bd2-e21632739383,talismanic.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,11/09/2026 07:30
+eba3c673-e5cb-43bc-8cdb-041f9fc5bb92,malice.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 17:58
 830b8c25-c694-44be-b7e5-4c4eba73acd3,hannibal.hamburg,available,69.98,73.98,high,low,8,namecheap,,,27/09/2026 04:24
 61c98099-35bd-479f-b98d-2919ee2466eb,andesite.hamburg,available,59.99,59.99,medium,low,8,name.com,,,19/09/2026 04:04
 afba0267-e25b-477d-8786-0a38a969551e,appalachia.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,19/09/2026 19:44
@@ -817,14 +875,16 @@ cd944044-047d-4fd2-89a0-69c768e53371,restriction.hamburg,available,59.99,,high,l
 cfaeed6f-603b-4677-80b5-3e090da57c1d,tiddly.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,11/09/2026 15:36
 f4ebdc50-595c-4bf7-8bad-9df94ccff991,classics.hamburg,available,69.98,73.98,high,low,8,namecheap,,,28/09/2026 13:44
 3be7198b-96eb-499b-b3c5-7917f5f60408,durham.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 01:25
-27eef283-4865-4d64-ae0f-84a92824e3de,device.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 04:21
+27eef283-4865-4d64-ae0f-84a92824e3de,device.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 21:09
 ce4af3e0-4ceb-4dff-8747-b8072874b3f9,unearthly.hamburg,available,59.99,59.99,medium,low,9,name.com,,,16/08/2026 02:28
+adacbf91-af8c-439a-afe0-3f60c2084c6e,commandant.hamburg,available,69.98,73.98,high,low,10,namecheap,,,01/10/2026 01:32
 9f1e66b9-fc12-42dd-8dc5-5b72a11b7bb2,janis.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 09:40
-eca4675c-b588-40b2-baff-d52a39775adc,worthful.hamburg,available,69.98,73.98,high,low,8,namecheap,,,13/09/2026 13:26
+eca4675c-b588-40b2-baff-d52a39775adc,worthful.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,13/09/2026 13:26
 d55bb2e3-3bd1-4333-83fa-ed61d4307ecd,paperwork.hamburg,available,69.98,73.98,high,low,9,namecheap,,,28/09/2026 02:53
 a855d046-f47d-4427-9820-beb760727951,earthworks.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,29/09/2026 17:50
+00b756c0-7570-4138-8a74-42cc54436a10,stamina.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 18:50
 5205ba16-4b4d-484c-b4ce-556c5bf46acc,ethnical.hamburg,available,59.99,59.99,high,low,8,name.com,,,17/08/2026 13:49
-d03ab736-896c-46a5-848f-bed38b79958b,speculation.hamburg,available,59.99,,high,low,11,name.com,,,
+d03ab736-896c-46a5-848f-bed38b79958b,speculation.hamburg,available,59.99,,medium,low,11,name.com,,,
 f81e4aeb-7d81-4fec-88e4-377e14e6b374,courteous.hamburg,available,69.98,73.98,high,low,9,namecheap,,,24/09/2026 00:40
 261a4e9f-b57f-4bd7-8782-262bbc1ed89e,alongside.hamburg,available,69.98,73.98,high,low,9,namecheap,,,13/09/2026 19:12
 a931c4b5-54eb-44dc-b963-1d3b17bed607,kew.hamburg,available,69.98,73.98,high,low,3,namecheap,,,28/09/2026 11:39
@@ -834,9 +894,10 @@ a931c4b5-54eb-44dc-b963-1d3b17bed607,kew.hamburg,available,69.98,73.98,high,low,
 fcade739-8098-40ce-bbea-9c4210823fc0,start.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,27/09/2026 04:39
 3b160aae-3b3a-48ff-b626-2001d59b2938,inimical.hamburg,available,59.99,59.99,medium,low,8,name.com,,,22/08/2026 05:20
 f914fc1f-9cea-4b72-b4b3-56693771f26d,blazer.hamburg,available,59.99,59.99,high,low,6,name.com,,,24/09/2026 05:03
+05e407f0-63a9-4c80-b7b1-2281d2374967,spinach.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 10:54
 18f372e3-4b5f-4eb6-94d3-62a8cececdd9,kimberly.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,28/09/2026 08:56
 835ad868-2ee7-4721-9570-760e4de3bd60,slugger.hamburg,available,69.98,73.98,high,low,7,namecheap,,,22/09/2026 14:18
-7d111f10-5685-4ffe-8514-181e9d62ac34,fading.hamburg,available,69.98,73.98,high,low,6,namecheap,,,21/09/2026 01:33
+7d111f10-5685-4ffe-8514-181e9d62ac34,fading.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,21/09/2026 01:33
 a3fdf7f7-13e2-4753-b650-b31dbb9b482a,enabling.hamburg,available,59.99,59.99,high,low,8,name.com,,,16/08/2026 21:07
 5514a882-6ce0-4dad-9e8a-1d79ff647410,athlete.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 22:57
 f5cd9043-1fe0-4ee6-9d8e-a6e18b3d1425,tanning.hamburg,available,59.99,59.99,high,low,7,name.com,,,22/08/2026 20:14
@@ -852,10 +913,11 @@ af2568d1-5d0b-4298-8b07-fd20ecee2226,conference.hamburg,available,69.98,73.98,hi
 61e324c8-fd0d-41cd-9c20-5e66db7772f5,coronation.hamburg,available,69.98,73.98,high,high,10,namecheap,,,30/09/2026 01:06
 559aeda5-8c29-4dec-a303-4db3677ad380,citizenship.hamburg,available,59.99,,high,low,11,name.com,,,
 f673a134-1f7c-4a26-8130-85d2c46259fd,copious.hamburg,available,59.99,59.99,high,low,7,name.com,,,13/08/2026 00:28
+8058387c-7007-4fae-a1a0-312c91f1463e,organisms.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,30/09/2026 23:35
 8f96d502-ef83-4dfe-8f32-54d36984bff8,wheaton.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 07:32
-fc9144b4-dbee-4c37-a28f-9c9a26d861db,vols.hamburg,available,69.98,73.98,high,low,4,namecheap,,,27/09/2026 11:41
+fc9144b4-dbee-4c37-a28f-9c9a26d861db,vols.hamburg,available,69.98,73.98,medium,low,4,namecheap,,,27/09/2026 11:41
 e07c670f-7d5b-4d07-8624-907566b58eac,michelle.hamburg,available,69.98,73.98,high,low,8,namecheap,,,25/09/2026 13:16
-22f8658a-b944-444c-bb4d-479133eb51bf,bending.hamburg,available,69.98,73.98,high,low,7,namecheap,,,23/09/2026 07:44
+22f8658a-b944-444c-bb4d-479133eb51bf,bending.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,23/09/2026 07:44
 833e1ff0-40f3-4aa8-a400-e719a6c34d7c,season.hamburg,available,69.98,73.98,high,low,6,namecheap,,,29/09/2026 19:31
 2f558982-78fd-47d6-981d-0118aa986c6f,dog.hamburg,available,69.98,73.98,high,medium,3,namecheap,,,28/09/2026 21:20
 5cca7e1e-b8c0-4687-b76a-7fbb142023fe,acrobatic.hamburg,available,59.99,59.99,high,low,9,name.com,,,
@@ -868,7 +930,7 @@ db2f2bfd-fae6-4fd9-9aaa-7a5e2b43a3c0,stygian.hamburg,available,59.99,59.99,mediu
 e98f7752-a6b9-448b-8f46-ea297423b495,minatory.hamburg,available,59.99,59.99,low,low,8,name.com,,,24/08/2026 19:58
 9971fa1b-13f1-4e76-835e-3068a9682931,expendable.hamburg,available,59.99,59.99,high,low,10,name.com,,,17/08/2026 18:08
 a82cf64d-477d-410c-bb8a-e6bd999fb19e,slideshow.hamburg,available,59.99,,high,low,10,name.com,,,
-a5ff0eca-3226-44d2-a63f-05ca7bbc70e6,pawpaw.hamburg,available,69.98,73.98,high,low,6,namecheap,,,20/09/2026 14:11
+a5ff0eca-3226-44d2-a63f-05ca7bbc70e6,pawpaw.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,20/09/2026 14:11
 38eb0a32-36e2-49b7-9b96-3b5ec4a87769,proverbial.hamburg,available,69.98,73.98,high,low,10,namecheap,,,09/09/2026 04:32
 66d4bf32-b53f-42b9-bb30-0602db5d47ad,denny.hamburg,available,69.98,73.98,high,low,5,namecheap,,,25/09/2026 15:22
 ff862c11-44fb-4377-b996-6528a3298dda,rico.hamburg,available,69.98,73.98,high,low,4,namecheap,,,19/09/2026 14:11
@@ -879,17 +941,19 @@ edf0a1cd-ebdd-48e4-8c32-8761217be14d,plumed.hamburg,available,69.98,73.98,medium
 58c4cf9b-256d-4b74-b999-dd6bf6000e82,deficit.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 13:33
 1658cef7-76f5-436e-85f1-ada5c9c8e0b1,darkly.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,14/09/2026 10:39
 1669705e-0265-46f9-a72c-904a47ce5891,threatening.hamburg,available,59.99,,medium,low,11,name.com,,,
-6f1f4f47-3d9c-46c7-805e-bcffd995104c,belong.hamburg,available,59.99,,high,low,6,name.com,,,
+6f1f4f47-3d9c-46c7-805e-bcffd995104c,belong.hamburg,available,69.98,73.98,high,low,6,namecheap,,,30/09/2026 15:43
 4bf0a984-ce73-4d6d-aa38-a2e55c676e2a,colorectal.hamburg,available,59.99,59.99,medium,low,10,name.com,,,12/08/2026 17:46
 c0e78c6e-f6db-4768-ae35-1fc8c2aef7bb,jaggy.hamburg,available,59.99,59.99,medium,low,5,name.com,,,17/08/2026 12:34
+fa74dd42-3b71-4696-9116-955077554efa,hydrolysis.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,01/10/2026 02:39
 fc794395-c60f-4e6e-aa6f-e779466ce6a0,nonsocial.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,03/09/2026 19:18
-d5454ebb-8b1a-4618-8280-83eaeb17cbd2,supervise.hamburg,available,59.99,,high,low,9,name.com,,,
+d5454ebb-8b1a-4618-8280-83eaeb17cbd2,supervise.hamburg,available,69.98,73.98,high,low,9,namecheap,,,30/09/2026 05:05
 ce4d6046-bfbf-429a-89cb-5b65546953eb,foxy.hamburg,available,59.99,59.99,high,low,4,name.com,,,13/08/2026 04:30
 6b5cb522-ad36-4522-a8f8-1552ca9b1180,pathway.hamburg,available,69.98,73.98,high,low,7,namecheap,,,29/09/2026 06:59
-2ef8671a-58f8-4040-a100-fd61288a7626,essence.hamburg,available,69.98,73.98,high,low,7,namecheap,,,28/09/2026 03:54
+2ef8671a-58f8-4040-a100-fd61288a7626,essence.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 16:02
 8d2b2570-ccbc-4307-b564-e8522f5aca10,utility.hamburg,available,69.98,73.98,high,low,7,namecheap,,,19/09/2026 06:04
-7ece210a-68b8-42de-9311-3fe2ec70db7e,racetrack.hamburg,available,59.99,,high,low,10,name.com,,,
-6e7386a3-a086-4042-bac3-66f6705816bc,consist.hamburg,available,59.99,,high,low,7,name.com,,,
+7ece210a-68b8-42de-9311-3fe2ec70db7e,racetrack.hamburg,available,69.98,73.98,high,low,10,namecheap,,,30/09/2026 18:25
+6e7386a3-a086-4042-bac3-66f6705816bc,consist.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 17:36
+88e06b46-4c74-4e8b-9632-29bb394b55e0,inbox.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,01/10/2026 02:34
 2a4f6484-a31a-4421-9456-c15147e16572,pathless.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,08/09/2026 10:25
 25516a48-52de-4ef3-953c-52d2ec2c9015,athletes.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 00:04
 991d1a9d-064c-40a6-a53e-1ee01b8fcd3f,downward.hamburg,available,59.99,59.99,high,low,8,name.com,,,14/08/2026 17:18
@@ -898,7 +962,7 @@ ce4d6046-bfbf-429a-89cb-5b65546953eb,foxy.hamburg,available,59.99,59.99,high,low
 2a4fd57f-61d5-4c90-a9e1-27567993fd9f,hotshot.hamburg,available,69.98,73.98,high,low,7,namecheap,,,21/09/2026 17:48
 b655a12f-838b-40a6-8380-a022d11646e7,agnatha.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,17/09/2026 18:31
 6f41c943-fcf4-44e7-9b64-8f03143d28d0,woods.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 19:51
-3eaaf4f0-ebd8-4af0-bc91-25b750f0e5d2,gower.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 04:18
+3eaaf4f0-ebd8-4af0-bc91-25b750f0e5d2,gower.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,29/09/2026 04:18
 8fe8cef0-ad52-4299-b37d-b83cb18e868c,soyuz.hamburg,available,69.98,73.98,high,low,5,namecheap,,,29/09/2026 15:02
 2d5dfe19-65d3-4b23-96c7-331b5e705c41,quiz.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 14:24
 fc7ebc0c-43fa-4264-9403-421f6bc6dd88,systematic.hamburg,available,69.98,73.98,high,low,10,namecheap,,,11/09/2026 06:44
@@ -911,91 +975,27 @@ dcfe3bcb-2780-4ddc-97eb-d70da0141891,madeline.hamburg,available,69.98,73.98,high
 991f59c5-c693-4b22-8498-5920a0165ac2,untried.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,12/09/2026 21:15
 d8d6d825-e05e-4a02-8f21-19c56dcaeec3,decrease.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 00:39
 9a1b96c3-6ee5-4705-b1ab-da6896e5f46f,hypo.hamburg,available,59.99,59.99,high,low,4,name.com,,,21/08/2026 17:15
-6ba9b175-b26a-4b88-a8a3-e4352206c0ce,antiacid.hamburg,available,69.98,73.98,high,low,8,namecheap,,,22/09/2026 05:47
+6ba9b175-b26a-4b88-a8a3-e4352206c0ce,antiacid.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,22/09/2026 05:47
+7122b865-7fe3-4e53-9c4e-9518e3dafb83,takashi.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,30/09/2026 21:32
 f21e5e15-53f7-4b45-b576-bd500790de95,secretaries.hamburg,available,69.98,73.98,medium,low,11,namecheap,,,30/09/2026 00:46
+98d37288-9b3d-4500-b6d2-5c75f0a13354,sys.hamburg,available,69.98,73.98,high,low,3,namecheap,,,30/09/2026 14:33
 46e557fb-e7ac-4def-9684-025558be8e97,ruth.hamburg,available,69.98,73.98,high,low,4,namecheap,,,21/09/2026 12:34
 1fbb8334-5e6c-4289-8860-1c103c34da0d,deadlifts.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,21/09/2026 05:50
 f8b5ee9b-c0db-495b-98ad-cf2457f7f986,pictorials.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,20/09/2026 12:53
 45197757-7d93-4617-b762-6160b7d009ad,mrna.hamburg,available,69.98,73.98,high,low,4,namecheap,,,25/09/2026 23:11
 2f936a9f-5509-4c2e-8e6d-ff9e25ef700e,diagonally.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,14/09/2026 12:34
 f2c35b38-4f07-4053-b6d1-3d6bbf69dc54,wrist.hamburg,available,69.98,73.98,high,low,5,namecheap,,,28/09/2026 22:18
-dc5fd7e2-a764-4e92-b412-d98a20cba58b,clarissa.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 21:24
-e136994e-b64f-40d6-ad25-15f49267888c,juliette.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 15:24
+dc5fd7e2-a764-4e92-b412-d98a20cba58b,clarissa.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 21:24
+e136994e-b64f-40d6-ad25-15f49267888c,juliette.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,29/09/2026 15:24
+0c6b5e0a-169f-4870-97cc-a6b8fe408665,nwa.hamburg,available,69.98,73.98,high,low,3,namecheap,,,30/09/2026 04:42
 d5bb0328-9b10-4f51-ba0d-12a975023b3b,centrally.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,14/09/2026 06:13
 3f299da5-5f13-4c84-a850-b708ca853d49,bandstand.hamburg,available,69.98,73.98,high,low,9,namecheap,,,22/09/2026 01:32
 a5cdfa60-820f-4bf4-b666-07d7d849cc36,clue.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 10:03
 3034b51a-cd01-48c2-8952-c0fde7727ce1,skyline.hamburg,available,69.98,73.98,high,low,7,namecheap,,,19/09/2026 20:18
-9c8afc5c-3994-49ad-8188-1775dc4595e5,racket.hamburg,available,69.98,73.98,high,low,6,namecheap,,,28/09/2026 14:13
+9c8afc5c-3994-49ad-8188-1775dc4595e5,racket.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,28/09/2026 14:13
 397eb271-2501-4fa1-96f1-70b71e68779f,weapon.hamburg,available,69.98,73.98,high,low,6,namecheap,,,25/09/2026 10:57
 e584746f-f5c6-4cac-82bc-30ba3fa1b9d4,cancel.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,29/09/2026 06:25
 1f66ca91-8744-4229-9aef-e80078e5576e,continual.hamburg,available,69.98,73.98,high,low,9,namecheap,,,23/09/2026 22:10
 929512c0-70be-4ff9-8b16-d7d67adc570b,bedrock.hamburg,available,69.98,73.98,high,low,7,namecheap,,,22/09/2026 10:39
-8d102c01-ffa1-4a53-abdd-7c591a0c839f,curvaceous.hamburg,available,59.99,59.99,high,low,10,name.com,,,10/08/2026 20:30
-2f2ed3dc-5cce-497e-8a54-5a30e2f1dacb,eggs.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 17:47
-4cb86320-dbc5-4a9e-809a-9da3b8c69d62,retracted.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,27/09/2026 13:32
-64958414-ceac-4aa4-987c-03507eba4f9e,minneapolis.hamburg,available,69.98,73.98,high,low,11,namecheap,,,29/09/2026 15:27
-91f6c3c6-5dcf-42ef-a6d9-d7944b3d4abb,insipid.hamburg,available,59.99,59.99,medium,low,7,name.com,,,10/08/2026 12:59
-4c7047e3-efe7-44ea-8c1b-ea4b47a050ee,hebrew.hamburg,available,59.99,59.99,high,low,6,name.com,,,21/08/2026 05:43
-bd9f52f8-4d4c-4d20-8d53-bc6140c8cfe9,parliament.hamburg,available,69.98,73.98,high,low,10,namecheap,,,29/09/2026 07:49
-2c6ac10e-89ad-41cf-ad88-580ed65b725e,garbage.hamburg,available,69.98,73.98,high,low,7,namecheap,,,25/09/2026 00:12
-db5857f7-eb73-4d79-aa7c-57f4ac23dadb,feetfirst.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,14/09/2026 18:20
-957054ef-00d7-49e1-8e40-24eb8b19988e,sevener.hamburg,available,59.99,59.99,medium,low,7,name.com,,,
-c87aba37-1613-413a-bcce-c667d84224ca,lunched.hamburg,available,59.99,59.99,medium,low,7,name.com,,,21/09/2026 04:17
-4c1af489-d898-4944-a86f-e22c6b8663e8,bench.hamburg,available,69.98,73.98,high,low,5,namecheap,,,23/09/2026 07:36
-fa300aee-b141-440a-a22f-9d98282dd4fd,kraus.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,29/09/2026 03:34
-c98c6b0a-7b5d-4f2b-b8d6-2211ab3576f8,stephens.hamburg,available,69.98,73.98,high,low,8,namecheap,,,25/09/2026 15:57
-a76a60cf-c4d2-449e-a06e-1c04cc2b2774,after.hamburg,available,69.98,73.98,high,low,5,namecheap,,,21/09/2026 22:16
-7083a6cb-16a4-4a8f-bf95-bbe201e3b9f9,bite.hamburg,available,69.98,73.98,high,low,4,namecheap,,,08/09/2026 13:01
-78a7ce65-3bd0-4d75-802b-0e292c6467b8,conjecture.hamburg,available,69.98,73.98,high,low,10,namecheap,,,24/09/2026 17:17
-c84a7396-121e-4174-bc62-af221355077c,telescopic.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,11/09/2026 10:24
-a410a890-de3c-4c3f-a3ee-d97e001dfb78,comment.hamburg,available,69.98,73.98,high,low,7,namecheap,,,24/09/2026 16:29
-86732462-33df-4144-aafd-f68f2825d045,honest.hamburg,available,59.99,59.99,high,low,6,name.com,,,21/08/2026 13:19
-cde6d5d8-9da8-4fba-9d38-d8ef278a7038,talking.hamburg,available,69.98,73.98,high,low,7,namecheap,,,25/09/2026 10:48
-0e2ca386-d21b-487c-8a5f-6f25e6a95054,aegis.hamburg,available,69.98,73.98,high,medium,5,namecheap,,,17/09/2026 12:19
-db1f043a-6c41-464c-b59d-513f6326ac46,moslem.hamburg,available,59.99,59.99,high,low,6,name.com,,,22/08/2026 10:47
-9a563f95-4375-4071-92d0-3d84a2ae1850,dafla.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,16/09/2026 16:37
-73869537-6b74-4409-b8ab-d3f939436e5a,kinetic.hamburg,available,59.99,59.99,high,low,7,name.com,,,17/08/2026 06:45
-33926473-002c-4782-a484-f456413a0cb1,minutes.hamburg,available,59.99,,high,low,7,name.com,,,
-3447a31b-9509-492b-9b12-4d53c7e65296,relaxation.hamburg,available,69.98,73.98,high,low,10,namecheap,,,29/09/2026 12:08
-a32e4c29-b7a4-49aa-8e18-904f4b2e8365,acrilan.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,17/09/2026 03:06
-be997f50-6282-407b-961d-5a7e0362792a,awards.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,28/09/2026 08:41
-ed8010ed-1816-4eae-a066-b4293e7b0ca1,apples.hamburg,available,69.98,73.98,high,low,6,namecheap,,,18/09/2026 14:01
-e347cb93-e9f3-4790-93c4-b1e1c721744c,designedly.hamburg,available,69.98,73.98,medium,low,10,namecheap,,,13/09/2026 17:33
-7d7862a9-5212-49bd-af74-01f4691723fc,naseby.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,22/09/2026 15:31
-1edf35c0-cc53-4559-8114-3a37529949ab,dovish.hamburg,available,59.99,59.99,medium,low,6,name.com,,,14/08/2026 17:07
-9dfed016-8737-4148-a95c-8de1d51877a4,rimless.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,09/09/2026 17:43
-3e8bddb8-d5d1-4fcf-8cc5-f5b0643ce83a,ayin.hamburg,available,69.98,73.98,high,low,4,namecheap,,,21/09/2026 10:38
-a08eb576-ab08-4957-9c55-c81b40ac94a5,beaner.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,22/09/2026 20:26
-4f1982fa-d128-47d7-8f49-0ca3f2bee017,blonde.hamburg,available,69.98,73.98,high,low,6,namecheap,,,22/09/2026 22:17
-d25684d3-c57c-4f84-a7eb-57e84f76a44b,skim.hamburg,available,69.98,73.98,high,low,4,namecheap,,,10/09/2026 09:32
-64dde25d-610c-45b4-b960-e427cc447291,toetoe.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,20/09/2026 12:22
-cf16f7d0-65fd-4cce-bb1e-59141cd81011,boyle.hamburg,available,59.99,59.99,high,low,5,name.com,,,25/09/2026 02:02
-91946738-8417-4108-b4e1-de7665725785,creep.hamburg,available,59.99,59.99,high,medium,5,name.com,,,10/09/2026 12:23
-befa2a9b-3927-464e-b655-c29718751604,ballot.hamburg,available,69.98,73.98,high,low,6,namecheap,,,21/09/2026 23:15
-33dc8e52-d907-4d7e-806b-d52a873917cb,naive.hamburg,available,69.98,73.98,high,low,5,namecheap,,,03/09/2026 12:50
-42b7e2d6-e3b5-4277-980f-09e7175231dc,rational.hamburg,available,59.99,59.99,high,low,8,name.com,,,22/08/2026 07:50
-60a2fb13-156f-4b81-88c3-ae8c31603808,planes.hamburg,available,69.98,73.98,high,low,6,namecheap,,,17/09/2026 03:50
-c8cf2d12-caad-427e-ab80-20414ec0652c,grave.hamburg,available,59.99,59.99,high,low,5,name.com,,,20/08/2026 18:38
-6d7b2024-af95-4773-8922-50da4aa4f2bf,kristin.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,29/09/2026 03:57
-fc53220f-e861-4e74-bc7e-4218320951c5,mouthfeel.hamburg,available,59.99,,medium,low,10,name.com,,,
-08cfa980-b807-4f97-b4f1-8ff950ef2ce2,awhile.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,28/09/2026 13:12
-415e94fc-fbd7-4235-83f3-611168d41900,bitis.hamburg,available,69.98,73.98,medium,low,5,namecheap,,,23/09/2026 22:37
-c911b5b6-52bf-4b17-b858-f63e8d9df9a4,broad.hamburg,available,69.98,73.98,high,low,5,namecheap,,,19/09/2026 06:03
-41cf1711-0174-4073-95c8-54dc269f766e,scurvy.hamburg,available,59.99,59.99,medium,low,6,name.com,,,
-f635a733-3b61-49ad-b693-d293bba1ee5e,ruby.hamburg,available,59.99,59.99,high,medium,4,name.com,,,22/09/2026 22:32
-38fd0ddb-bd31-4107-8b3d-59f933f6768e,planetal.hamburg,available,69.98,73.98,medium,low,8,namecheap,,,08/09/2026 20:42
-f9002655-a8fb-4ba2-8bff-47b785d13e51,papers.hamburg,available,69.98,73.98,high,low,6,namecheap,,,24/09/2026 23:21
-ca156db0-dc18-4d02-8ac3-b50570e25fd9,oneself.hamburg,available,59.99,,high,low,7,name.com,,,
-64afc990-9205-48e8-932f-6cb95da37bc5,stroller.hamburg,available,69.98,73.98,high,low,8,namecheap,,,18/09/2026 17:04
-f9bd5e48-d006-41ab-9aa2-03d3ba380462,squeeze.hamburg,available,59.99,59.99,high,low,7,name.com,,,20/08/2026 22:27
-5de73985-63ba-45e8-9995-bcce5f9e2517,bovid.hamburg,available,59.99,59.99,high,medium,5,name.com,,,10/08/2026 22:56
-6f4e3840-aef3-42ac-8502-65213a0c7a1d,leonardo.hamburg,available,69.98,73.98,high,low,8,namecheap,,,28/09/2026 18:51
-0f1c4908-0b9f-4435-a97a-2bae08f57994,ostensive.hamburg,available,69.98,73.98,medium,low,9,namecheap,,,04/09/2026 18:31
-a8d6beb9-4c26-4818-af16-0fb5fbb9e40f,yuan.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 07:27
-4b716d56-7bb6-4aa2-806f-0a9808ce9cf2,assumed.hamburg,available,59.99,59.99,medium,low,7,name.com,,,07/08/2026 07:45
-f8340248-ef40-4265-ac5a-b14c15148bf8,thief.hamburg,available,59.99,,high,low,5,name.com,,,
-956479e0-761d-4908-8646-9d75042adb78,baikal.hamburg,available,69.98,73.98,high,low,6,namecheap,,,21/09/2026 18:54
-658caa59-0272-47f9-b242-f5b7d48e8714,rockwell.hamburg,available,69.98,73.98,high,low,8,namecheap,,,27/09/2026 04:54
-30c35db1-a590-4d8d-a0db-34e95725b0b4,peninsula.hamburg,available,59.99,,high,low,9,name.com,,,
-52a8e4e8-a618-4d36-900e-2c7ab5383cba,linnean.hamburg,available,59.99,59.99,medium,low,7,name.com,,,23/08/2026 17:24
-daa2538b-1154-415c-bc26-666482323d5f,charity.hamburg,available,69.98,73.98,high,low,7,namecheap,,,24/09/2026 10:51
+4203134e-b53f-41b2-87ee-8c8503b0ab3d,ici.hamburg,available,69.98,73.98,high,low,3,namecheap,,,30/09/2026 05:17
+8d102c01-ffa1-4a53-abdd-7c591a0c839f,curvaceous.hamburg,available,59.99,59.99,medium,low,10,name.com,,,10/08/2026 20:30
