@@ -1,10 +1,10 @@
-# Available .HAMBURG One-Word Domains (32,192)
+# Available .HAMBURG One-Word Domains (33,730)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C192%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C730%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hamburg one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,192 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,730 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,192 domains · **Median ask:** $67.41 · **High-demand under $2,500:** 204
+**Public extract:** 1,000 rows · **Live catalog:** 33,730 domains · **Median ask:** $67.60 · **High-demand under $2,500:** 208
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/hamburg`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ala.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| fun.hamburg  | resell    | —         | —             | high           | medium | 3      | —         |
-| amy.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| bank.hamburg | resell    | —         | —             | high           | medium | 4      | —         |
-| bug.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| cfr.hamburg  | available | $69.98    | $73.98        | medium         | low    | 3      | namecheap |
-| ctc.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| dog.hamburg  | available | $69.98    | $73.98        | high           | medium | 3      | namecheap |
-| eid.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| fad.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| fog.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| gmt.hamburg  | available | $69.98    | $73.98        | medium         | low    | 3      | namecheap |
-| gur.hamburg  | available | $69.98    | $73.98        | medium         | low    | 3      | namecheap |
-| hai.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| hop.hamburg  | available | $59.99    | $59.99        | high           | low    | 3      | name.com  |
-| hpv.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| hwy.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| ici.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
-| jra.hamburg  | available | $69.98    | $73.98        | medium         | low    | 3      | namecheap |
-| kew.hamburg  | available | $69.98    | $73.98        | high           | low    | 3      | namecheap |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| pay.hamburg        | available | $69.98    | $73.98        | high           | medium | 3      | namecheap |
+| company.hamburg    | available | $69.98    | $73.98        | high           | low    | 7      | namecheap |
+| artistry.hamburg   | available | $69.98    | $73.98        | high           | medium | 8      | namecheap |
+| enrich.hamburg     | available | $69.98    | $73.98        | high           | low    | 6      | namecheap |
+| need.hamburg       | available | $69.98    | $73.98        | high           | low    | 4      | namecheap |
+| start.hamburg      | available | $69.98    | $73.98        | high           | medium | 5      | namecheap |
+| weather.hamburg    | available | $69.98    | $73.98        | high           | medium | 7      | namecheap |
+| charleston.hamburg | available | $69.98    | $73.98        | high           | low    | 10     | namecheap |
+| lgbtq.hamburg      | available | $69.98    | $73.98        | high           | low    | 5      | namecheap |
+| wedding.hamburg    | available | $69.98    | $73.98        | high           | low    | 7      | namecheap |
+| somebody.hamburg   | available | $69.98    | $73.98        | high           | low    | 8      | namecheap |
+| fairy.hamburg      | available | $69.98    | $73.98        | high           | low    | 5      | namecheap |
+| bell.hamburg       | available | $69.98    | $73.98        | high           | low    | 4      | namecheap |
+| modesty.hamburg    | available | $69.98    | $73.98        | high           | low    | 7      | namecheap |
+| device.hamburg     | available | $69.98    | $73.98        | high           | low    | 6      | namecheap |
+| season.hamburg     | available | $69.98    | $73.98        | high           | low    | 6      | namecheap |
+| effort.hamburg     | available | $69.98    | $73.98        | high           | low    | 6      | namecheap |
+| utility.hamburg    | available | $69.98    | $73.98        | high           | low    | 7      | namecheap |
+| mining.hamburg     | available | $69.98    | $73.98        | high           | low    | 6      | namecheap |
+| taken.hamburg      | available | $69.98    | $73.98        | high           | low    | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,192 live domains                        |
+| 1,000-row public sample | 33,730 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 204 high-demand names under $2,500         |
+| Basic exported fields   | 208 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAMBURG One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAMBURG One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
